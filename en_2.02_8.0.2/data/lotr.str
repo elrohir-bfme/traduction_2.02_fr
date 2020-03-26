@@ -65,68 +65,68 @@ END
 // comment:
 
 TIME:Days
-"%d Days"
+"%d jours"
 END
 
 TIME:Day
-"1 Day"
+"1 jour"
 END
 
 TIME:Hours
-"%d Hours"
+"%d heures"
 END
 
 TIME:Hour
-"1 Hour"
+"1 heure"
 END
 
 TIME:Minutes
-"%d Minutes"
+"%d minutes"
 END
 
 TIME:Minute
-"1 Minute"
+"1 minute"
 END
 
 TIME:Seconds
-"%d Seconds"
+"%d secondes"
 END
 
 TIME:Second
-"1 Second"
-END 
+"1 seconde"
+END
 
 // context: Color names. They are used in a drop list where the player can select the house color for his side in a multiplayer game, so the player can identify his units.
 Color:Gold
-"Gold"
+"Or"
 END
 
 Color:Red
-"Red"
+"Rouge"
 END
 
 Color:MordorRed
-"Mordor Red"
+"Mordor rouge"
 END
 
 Color:Blue
-"Blue"
+"Bleu"
 END
 
 Color:GondorBlue
-"Gondor Blue"
+"Gondor bleu"
 END
 
 Color:Green
-"Green"
+"Vert"
 END
 
 Color:RohanGreen
-"Elven Green"
+"Elfe vert"
 END
 
 Color:Black
-"Sauron Black"
+"Sauron noir"
 END
 
 Color:Orange
@@ -138,11 +138,11 @@ Color:SkyBlue
 END
 
 Color:Purple
-"Purple"
+"Violet"
 END
 
 Color:Pink
-"Fairy Pink"
+"Rose"
 END
 
 // context: Team names. They are used in a drop list where the player can select his team for a multiplayer game
@@ -167,7 +167,7 @@ Team:4
 END
 
 Team:AI
-"CPU"
+"IA"
 END
 
 // context:
@@ -183,109 +183,98 @@ END
 //context:
 
 GUI:MustHaveAdminRights
-"You must have administrative rights to install a patch."
+"Droits administrateur requis pour installer un patch."
 END
 
 GUI:Age
-// context: Title for the age verification box on the login screen
-"Age"
+"Date de naissance"
 END
- 
+
 GUI:Month
-// context: The month title on the Age Verification Box
-"Month (MM)"
+"Mois (MM)"
 END
 
 GUI:Day
-// context: The Day of the month
-"Day (DD)"
+"Jour (JJ)"
 END
- 
+
 GUI:Year
-// context: The Year
-"Year (YYYY)"
+"Année (AAAA)"
 END
 
 GUI:RandomSide
-// context: used on the player tooltip located on the Internet Lobby screen if that player plays as the random side
-"Random"
+"Aléatoire"
 END
 
 GUI:BuddyAddReq
 // context: message to user that someone wants to add them to their buddy.
-"The Lord of the Rings, The Rise of the Witch-king user wants to add a buddy"
+"Un joueur de LSDA, L'Avènement du Roi-sorcier" veut vous ajouter à sa liste d'amis."
 END
  
  
 GUI:ControlBarBack
 // context: button located on the control bar when the user is in oberver mode and has selected a side to "Watch"
-"BACK"
+"Retour"
 END
 
 APT:Otherplayerisready
-"Other player is ready"
+"L'autre joueur est prêt."
 END
 
 APT:ExitWithoutSaving
-"Are you sure you want to exit without saving?"
+"Etes-vous sûr de vouloir quitter sans sauvegarder ?"
 END
 
 APT:AreYouSureYouWantToRestart
-"Are you sure you want to restart?"
+"Voulez-vous vraiment recommencer ?"
 END
 
 APT:AreYouSureYouWantToRestartMessage
-"Are you sure you want to restart?"
+"Voulez-vous vraiment recommencer ?"
 END
 
 APT:AreYouSureYouWantToSurrenderMessage
-"Are you sure you want to surrender?"
+"Etes-vous sûr de vouloir capituler ?"
 END
 
 APT:AreYouSureYouWantToForfeitMessage
-"Are you sure you want to forfeit?"
+"Etes-vous sûr de vouloir déclarer forfait ?"
 END
 
 APT:WorldMapTutorial
-// In Battle Movie tutorial, button to show WorldMap movie
-"WORLD MAP"
+"CARTE DU MONDE"
 END
 
 APT:ArmiesTutorial
-// In Battle Movie tutorial, button to show Armies movie
-"ARMIES"
+"ARMEES"
 END
 
 APT:HeroesTutorial
-// In Battle Movie tutorial, button to show Heroes movie
-"HEROES"
+"HEROS"
 END
 
 APT:CastlesTutorial
-// In Battle Movie tutorial, button to show Castles movie
-"CASTLES"
+"CHATEAUX"
 END
 
 APT:SpecialPowersTutorial
-// In Battle Movie tutorial, button to show SpecialPowers movie
-"SPECIAL POWERS"
+"POUVOIRS SPECIAUX"
 END
 
-
 APT:Moves&AttacksTutorial
-"MOVES AND ATTACKS"
+"DEPLACEMENTS ET ATTAQUES"
 END
 
 APT:Bases&UnitsTutorial
-"BASES AND UNITS"
+"BASES ET UNITES"
 END
 
 APT:VeterancyTitle
-"Experience"
+"Expérience"
 END
 
 APT:VeterencyTitle
-"Experience"
+"Expérience"
 END
 
 APT:VeterancyTutorial
@@ -297,76 +286,63 @@ APT:VeterencyTutorial
 END
 
 APT:BattleFought
-// Context Veterancy screen header.
-"Battles Fought"
+"Batailles livrées"
 END
 
 APT:RenameInstructions
-// If we rename units on Veterancy, this will be instructions.
-" "
+""
 END
 
 APT:EnemiesThisBattle
-// Context Veterancy screen header.
-"Enemies Defeated in this Battle"
+"Ennemis vaincus pendant la bataille"
 END
 
 APT:TotalEnemiesDefeated
-// Context Veterancy screen header.
-"Total\nEnemies\nDefeated"
+"Nombre Total\nd'ennemis\nvaincus"
 END
 
 APT:Bases&UnitsTitle
-"Bases and Units"
+"Bases et unités"
 END
 
 APT:Moves&AttacksTitle
-"Moves and Attacks"
+"Déplacements et Attaques"
 END
 
 APT:WorldMapTitle
-// In Battle Movie tutorial, title for WorldMap movie
-"World Map"
+"Carte du monde"
 END
 
 APT:ArmiesTitle
-// In Battle Movie tutorial, title for Armies movie
-"Armies"
+"Armées"
 END
 
 APT:HeroesTitle
-// In Battle Movie tutorial, title for Heroes movie
-"Heroes"
+"Héros"
 END
 
 APT:CastlesTitle
-// In Battle Movie tutorial, title for Castles movie
-"Castles"
+"Châteaux"
 END
 
 APT:SpecialPowersTitle
-// In Battle Movie tutorial, title for SpecialPowers movie
-"Special Powers"
+"Pouvoirs spéciaux"
 END
 
 APT:BattleSchoolTitle
-// In Battle Movie section, original title
-"Battle School"
+"Ecole de combat"
 END
 
 APT:Send
-"SEND"
+"ENVOYER"
 END
 
 APT:LoadSaveGame
-// context: Headline in the load/save menu
-"LOAD/SAVE GAME"
+"CHARGER/SAUVEG. PARTIE"
 END
- 
+
 APT:LoadGame
-// context: Load button located on the load/save menu
-"LOAD"
-END
+"CHARGER"
  
 APT:HeaderLoadSavedGame
 // context: Headline located on the load/save menu
