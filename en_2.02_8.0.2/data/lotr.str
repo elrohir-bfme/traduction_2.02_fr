@@ -501,138 +501,111 @@ APT:MenuStrategicTutorial
 END
 
 APT:MenuTutorials
-// context: Main Tutorials button on the Main Menu
-"TUTORIALS"
+"INITIATIONS"
 END
- 
+
 GUI:MainMenuLoadGame
-// SKB:REMOVE context: Load game button located on the Main Menu
-"Load Game"
+"Charger partie"
 END
- 
+
 APT:LoadReplay
-// context: load replay button located on the Main Menu
-"LOAD REPLAY"
+"CHARGER REDIFFUSION"
 END
 
 APT:MultiplayerMaps
-// context: Title in Quick match screen
-"MULTIPLAYER MAPS"
+"CARTES MULTIJOUEUR"
 END
 
 APT:GameMode
-// context: "Game Mode" label in Quickmatch screen
-"GAME MODE"
+"MODE DE JEU"
 END
 
 APT:MapType
-// context : label in host game screen
-"MAP TYPE"
+"TYPE DE CARTE"
 END
 
 APT:MapTitle
-"MAP TITLE"
+"TITRE CARTE"
 END
 
 APT:Color
-// context: "Color" header in player matrix.
-"Color"
+"Couleur"
 END
 
 APT:ColorCAPS
-// context: "Color" header in player matrix.
-"COLOR"
+"COULEUR"
 END
 
-
 APT:ConnectionSpeed
-// context: title of label in quickmatch screen
-"Connection Speed"
+"Vitesse connexion"
 END
 
 APT:LadderHeader
-// context: "# of players" label in quickmatch screen
-"Ladder"
+"Classement"
 END
 
 APT:FindGames
-// context: button on Tournament that starts the searching for players 
-//was "FIND GAMES"
-"JOIN GAME"
+"REJOINDRE PARTIE"
 END
 
 APT:Side
-// context: "Side" label in the quickmatch screen
-"Army"
+"Armée"
 END
 
 APT:PlayGame
-// context: "Play Game" button in quickmatch screen
-"PLAY GAME"
+"JOUER"
 END
 
 APT:Objectives
-// context: Headline in objectives menu in-game
-"OBJECTIVES"
+"OBJECTIFS"
 END
 
 APT:ObjectivesNone
-// context: Objectives menu in-game, if no objectives available
-"No objectives available"
+"Aucun objectif disponible"
 END
 
 APT:PlayerStatus
-// context: Headline in player status screen
-"Game Info"
+"Infos sur le jeu"
 END
 
 APT:HeaderClans
-// context: On clans tab, prompt to enter clan name.
-"Enter Clan Tag:"
+"Saisissez la signature du clan :"
 END
 
-
 APT:HeaderPlayerName
-// context: Table header for column in player status screen
-"Player Name"
+"Nom"
 END
 
 APT:HeaderFaction
-// context: Table header for column in player status screen
-"Army"
+"Armée"
 END
 
 APT:HeaderFactionCaps
-"ARMY"
+"ARMEE"
 END
 
 APT:HeaderTeam
-// context: Table header for column in player status screen
-"Team"
+"Equipe"
 END
 
 APT:HeaderStatus
-// context: Table header for column in player status screen
-"Status"
+"Statut"
 END
 
 APT:HeaderResources
-// context: Table header for column in tribute screen
-"Resources"
+"Ressources"
 END
 
 APT:HeaderTributeInstructions
-// context: Table header for column in tribute screen
-"Distribute resources to send to your teammates."
+"Répartissez les ressources à envoyer à vos équipiers."
 END
 
 APT:CustomGameLobby
-// context: Title on LanLobby screen
-"OPEN PLAY LOBBY"
+"SALLE DE JEU PUBLIQUE"
 END
 
 APT:CommandPointLimit
-"Command Point Limit"
+"Limite de points commandement"
 END
 
 APT:CurrentMapName
