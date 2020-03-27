@@ -49604,7 +49604,7 @@ END
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
 //"Allows research of Silverthorn Arrows"
 //"Allows research of Silverthorn Arrows\nAdds defensive Arrow Tower"
-"Allows research of Silverthorn Arrows \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
+"Permet la recherche des flèches d'argent \n Vitesse de construction + 25% \n Ajoute une tour d'archers défensive"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
