@@ -345,196 +345,159 @@ APT:LoadGame
 "CHARGER"
  
 APT:HeaderLoadSavedGame
-// context: Headline located on the load/save menu
-"LOAD SAVED GAME"
+"CHARGER UNE PARTIE SAUVEGARDEE"
 END
 
 APT:HeaderLoadSavedReplay
-// context: Headline located on the load/save menu
-"LOAD SAVED REPLAY"
+"CHARGER REDIFFUSION"
 END
 
 APT:HeaderSaveGame
-// context: Headline located on the load/save menu
-"SAVE GAME"
+"SAUVEGARDER LA PARTIE"
 END
 
 APT:HeaderSaveReplay
-// context: Headline located on the load/save menu
-"SAVE REPLAY"
+"SAUVEGARDER REDIFFUSION"
 END
 
 APT:BattleSchool
-// button name for main menu
-"BATTLE SCHOOL"
+"ECOLE DE COMBAT"
 END
 
 APT:LoadScreenPlayers
-// Context column on game loading screen
-"Player"
+"Joueur"
 END
 
 APT:SaveGame
-// context: Save button located on the load/save menu
-"SAVE"
+"SAUVEGARDER"
 END
 
 APT:Save
-// context: Headline of save menu
-"SAVE"
+"SAUVEGARDER"
 END
 
 APT:SaveGameProgress
-// Title when saving a game
-"Save Progress"
+"Sauvegarde"
 END
 
 APT:SaveGameMultiplayerConfirmationTitle
-// Title in message box when opponent requests saving a multiplayer game
-"Save Request"
+"Demande de sauvegarde"
 END
 
 APT:ConfirmMultiplayerSave
-// Text in message box when opponent requests saving a multiplayer game and there is no overwrite. Text _can_ have a %s where the filename will be inserted.
-"The other player would like to save the session. Do you agree?"
+"L'autre joueur souhaite sauvegarder la session. Acceptez-vous ?"
 END
 
 APT:ConfirmMultiplayerSaveWithOverwrite
-// Title in message box when opponent requests saving a multiplayer game and there will be a file overwrite. Text _can_ have a %s where the filename will be inserted.
-"The other player would like to save the session.\nThis will overwrite the previous save game with the name '%s'.\nDo you agree?"
+"L'autre joueur souhaite sauvegarder la session.\nLa sauvegarde précédente nommée "%s" sera écrasée.\nAcceptez-vous ?"
 END
 
 APT:MultiplayerSaveDenied
-// Text in message box when opponent denied request to save a multiplayer game.
-"The other player rejected your save game request."
+"L'autre joueur a refusé de sauvegarder la partie."
 END
 
 APT:MultiplayerSaveDeniedAutoDenied
-"The other player is busy and cannot save now, they should be able to save momentarily."
-END 
+"L'autre joueur est occupé et ne peut pas sauvegarder maintenant, il pourra le faire dans un moment."
+END
 
 APT:MultiplayerSaveDeniedNoSpace
-"The other player cannot save because they are out of hard drive space."
+"L'autre joueur ne peut pas sauvegarder car il ne dispose pas d'assez d'espace libre sur le disque dur."
 END
 
 APT:GameSelectorTab
-// context: One of the selection buttons to choose between Skirmish (=Game) and Replay loading in load/save menu
-"GAME"
+"PARTIE"
 END
 
 APT:ReplaySelectorTab
-// context: One of the selection buttons to choose between Skirmish (=Game) and Replay loading and Campaign/Skirmish/Replay loading in load/save menu
-"REPLAY"
+"REDIFFUSION"
 END
 
 APT:Replays
-// context: Replay selection button on the Main Menu
-"REPLAYS"
+"REDIFFUSIONS"
 END
 
 APT:CampaignSelectorTab
-// context: One of the selection buttons to choose between Campaign/Skirmish/Replay loading in load/save menu
-"CAMPAIGN"
+"CAMPAGNE"
 END
 
 APT:SkirmishSelectorTab
-// context: One of the selection buttons to choose between Campaign/Skirmish/Replay loading in load/save menu
-"SKIRMISH"
+"ESCARMOUCHE"
 END
 
 APT:HeaderSavedFiles
-// context: Lable above saved files list box in the load/save menu
-"Saved Files"
+"Fichiers sauvegardés"
 END
 
-APT:HeaderAutoSave
-// context: Lable above auto save selection box in the load/save menu
-"Auto Save"
+AAPT:HeaderAutoSave
+"Sauvegarde auto"
 END
 
 APT:NameFile
-// context: Lable before file name in the load/save menu
-"Name File"
+"Nom fichier"
 END
 
 APT:Mission
-// context: Lable above column in load/save menu
 "Mission"
 END
 
 APT:OverwriteSaveConfirmation
-// context: The user has selected to overwrite a save game or replay file, this is an "are you sure" confirmation dialog box message
-"Overwrite existing file?"
+"Ecraser fichier existant ?"
 END
 
 APT:SavingWait
-// context: Message to inform user that a game save is in progress
-"Saving..."
+"Sauvegarde en cours&"
 END
 
 APT:SavingWaitOnMultiplayer
-// fcontext: Message to inform user that a game save request has been sent to other player in multiplayer game
-"Waiting for opponent to accept save request..."
+"En attente de la réponse de l'autre joueur pour sauvegarder&"
 END
 
 APT:ConnectionSettings
-// context: Connection Settings heading in quickmatch screen
-"Connection Settings"
+"Paramètres connexion"
 END
 
 APT:MaxPing
-// context: Connection Settings in quickmatch screen
-"Max Ping"
+"Ping max."
 END
 
 APT:DisconnectMenu
-// context: Disonnect menu title
-"DISCONNECT MENU"
-End
+"MENU DECONNEXION"
+END
 
 APT:MaxDisconnects
-// context: Connection Settings heading in quickmatch screen
-"Max Disconnects"
+"Déconnexions max."
 END
 
 APT:LoadGameConfirmation
-// context: The user has selected to load a game or replay, this confirmation dialog box asks them if they are sure they want to proceed because all the current game data will be lost
-"Current game data will be lost. Load saved file?"
+"Les données en cours seront perdues. Charger le fichier de sauvegarde ?"
 END
 
 APT:DeleteGameConfirmation
-// context: In the load/save screen, this confirmation dialog box asks the user if they are sure they want to delete a save game or replay file
-"Are you sure you would like to delete the selected file?"
+"Voulez-vous vraiment supprimer le fichier sélectionné ?"
 END
 
 APT:ConfirmationOk
-// context: Ok button text for confirmation dialog (message box)
 "OK"
 END
 
 APT:ConfirmationCancel
-// context: Cancel button text for confirmation dialog (message box)
-"CANCEL"
+"ANNULER"
 END
 
 APT:MainMenuLoadGame
-// context: Load game button located on the Main Menu
-"LOAD GAME"
+"CHARGER PARTIE"
 END
 
 APT:MenuBasicTutorial
-// context: Basic Tutorial button located on the Main Menu
-"BASIC\nTUTORIAL"
+"INITIATION\nBASIQUE"
 END
 
 APT:MenuAdvancedTutorial
-// context: Advanced Tutorial button located on the Main Menu
-"ADVANCED\nTUTORIAL"
+"INITIATION\nAVANCEE"
 END
 
 APT:MenuStrategicTutorial
-// context: War of the Ring Tutorial button located on the Main Menu
-"WAR OF THE RING\nTUTORIAL"
+"INITIATION A LA\nGUERRE DE L'ANNEAU"
 END
 
 APT:MenuTutorials
