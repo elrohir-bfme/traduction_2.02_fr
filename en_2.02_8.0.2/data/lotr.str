@@ -52933,55 +52933,55 @@ END
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
 //"+25% Faster Build Speed"
-"+25% Faster Build Speed \n Adds defensive Arrow Tower"
+"Ajoute une Tour défensive \n Vitesse de construction +25% "
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressFlamingMunitions
 //"Adds fire damage to all attached towers and trebuchets"
 //"Adds fire damage to all attached Towers, Trebuchets and nearby Lone Towers"
-"Adds Fire damage to all attached Towers and Trebuchets \n Passes upgrade to nearby Production Buildings, Resource Buildings, Forges and Lone Towers"
+"Ajoute des dégâts de feu à toutes les tours et trébuchets reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressFlamingMunitions
 //"Adds fire damage to all attached towers and catapults"
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Passes upgrade to nearby Production Buildings, Resource Buildings, Forges and Lone Towers"
+"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSummonedStructureFlamingMunitions  
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Passes upgrade to nearby Production Buildings, Resource Buildings, Forges and Lone Towers"
+"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 //"Adds Silverthorn Arrows to all attached Watchtowers"
-"Adds Silverthorn Arrows to all attached Watchtowers \n Passes upgrade to nearby Production Buildings, Resource Buildings and Forges"
+"Adds Silverthorn Arrows to all attached Watchtowers \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressIceMunitions
 //"Adds frost damage to all attached Towers and Stone Throwers"
-"Adds Frost damage to all attached Towers and Stone Throwers \n Passes upgrade to nearby Production Buildings, Resource Buildings and Forges"
+"Adds Frost damage to all attached Towers and Stone Throwers \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressOrcfireMunitions
 //"Arms defensive towers with Fire Arrows"
 //"Arms defensive Towers with Fire Arrows"
 //"Adds fire damage to all attached Towers and Ballistae"
-"Adds Fire damage to all attached Towers and Ballistae \n Passes upgrade to nearby Production Buildings, Resource Buildings and Forges"
+"Adds Fire damage to all attached Towers and Ballistae \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressFireArrows
 //"Equips your Arrow Dens with Fire Arrows"
 //"Adds fire damage to all attached Arrow Dens"
-"Adds Fire damage to all attached Arrow Dens \n Passes upgrade to nearby Production Buildings, Resource Buildings and Forges"
+"Adds Fire damage to all attached Arrow Dens \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressFireArrows
 //"Equips Barricades with Fire Arrows"
 //"Equips attached Barricades and nearby Summoned Barricades with Fire Arrows"
-"Adds Fire damage to all attached Barricades \n Passes upgrade to nearby Production Buildings, Resource Buildings and Summoned Barricades"
+"Ajoute des dégâts de feu aux Barricades \n Amélioration Active sur les Structures proches de Ressource, de Production, les Barricades Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
@@ -52990,7 +52990,7 @@ CONTROLBAR:ToolTipGothmogDayoftheOrc
 //"Requires Level 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
 //"Requires Level 5 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
 //"Modifier Type: Leadership \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\n and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
-"Modifier Type: Leadership \n Orcs near Gothmog gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+"Pouvoir Passif : \n Les Orques autour de Gothmog ont +33% de Dégâts et d'armure et gagne l'expérience 50% plus rapidement \n Bonus Cumulable \n Capacité Passif"
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasant
