@@ -96,7 +96,6 @@ TIME:Second
 "1 seconde"
 END
 
-// context: Color names. They are used in a drop list where the player can select the house color for his side in a multiplayer game, so the player can identify his units.
 Color:Gold
 "Or"
 END
@@ -145,7 +144,6 @@ Color:Pink
 "Rose"
 END
 
-// context: Team names. They are used in a drop list where the player can select his team for a multiplayer game
 Team:0
 "-"
 END
@@ -170,9 +168,6 @@ Team:AI
 "IA"
 END
 
-// context:
-
-// context: Example text. DO NOT REQUIRE TRANSLATION
 MSG:Testing
 "Mary had a little lamb, it's fleece as white as snow."
 END
@@ -180,7 +175,6 @@ END
 MSG:Test2
 "And everywhere that Mary when, the lamb was sure to go."
 END
-//context:
 
 GUI:MustHaveAdminRights
 "Droits administrateur requis pour installer un patch."
@@ -207,13 +201,10 @@ GUI:RandomSide
 END
 
 GUI:BuddyAddReq
-// context: message to user that someone wants to add them to their buddy.
 "Un joueur de LSDA, L'Avï¿½nement du Roi-sorcier" veut vous ajouter ï¿½ sa liste d'amis."
 END
  
- 
 GUI:ControlBarBack
-// context: button located on the control bar when the user is in oberver mode and has selected a side to "Watch"
 "Retour"
 END
 
@@ -343,7 +334,7 @@ END
 
 APT:LoadGame
 "CHARGER"
- 
+END 
 APT:HeaderLoadSavedGame
 "CHARGER UNE PARTIE SAUVEGARDEE"
 END
@@ -428,7 +419,7 @@ APT:HeaderSavedFiles
 "Fichiers sauvegardï¿½s"
 END
 
-AAPT:HeaderAutoSave
+APT:HeaderAutoSave
 "Sauvegarde auto"
 END
 
@@ -49318,18 +49309,17 @@ Map:MAPMPFordsofIsenIV/Desc
 END
 
 // ======================== VERSION 7.0.0 =============== ;,;
-
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
 //"Allows research of Silverthorn Arrows"
 //"Allows research of Silverthorn Arrows\nAdds defensive Arrow Tower"
-"Permet la recherche des flèches d'argent \n Vitesse de construction + 25% \n Ajoute une tour d'archers défensive"
+"Permet la recherche des flï¿½ches d'argent \n Vitesse de construction + 25% \n Ajoute une tour d'archers dï¿½fensive"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 //"+25% Faster Build Speed \n Allows research of Mithril Mail, Siege Hammers, and Flaming Shot upgrades \n Adds Defensive Axe Tower"
 //"+25% Faster Build Speed \n Allows research of Mithril Mail and Flaming Shot upgrades \n Adds Defensive Axe Tower"
 //"Allows research of Mithril Mail and Flaming Shot upgrades \n Increases the rate at which siege weapons are healed \n +25% Faster Build Speed \n Adds Defensive Axe Tower"
-"Permet la recherche des améliorations cotte de mailles en mithril et Flèches enflammées \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25% \n Ajoute une tour de lanceurs de haches défensive"
+"Permet la recherche des amï¿½liorations cotte de mailles en mithril et Flï¿½ches enflammï¿½es \n Augmente la vitesse de guï¿½rison des armes de siï¿½ge \n Vitesse de construction +25% \n Ajoute une tour de lanceurs de haches dï¿½fensive"
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
@@ -51691,58 +51681,58 @@ CONTROLBAR:TooltipKnightsofDolInspiration
 //"Requires Level 2 \n Gondor Knights and Rohirrim near the Knights of Dol Amroth gain\n+33% Damage, +33% Armor\nand earn experience twice as fast\nPassive ability"
 //"Requires Level 2 \n Nearby Gondor Knights and Rohirrim gain\n+33% Damage, +33% Armor\nand earn experience twice as fast\nPassive ability"
 //"Requires Level 2 \n Nearby Gondor Knights and Rohirrim gain\n+33% Damage, +33% Armor\nand earn experience 50% faster\nPassive ability"
-"Requiert Niveau 2 \n Capacité Passive \n Les Cavaliers du Gondor et Cavaliers de Dol Amroth proches gagnent \n +33% de Dégâts et d'Armure \n Et Gagne de l'Expérience 50% plus rapidement \n Bonus Cumulable \n Pouvoir Passif"
+"Requiert Niveau 2 \n Capacitï¿½ Passive \n Les Cavaliers du Gondor et Cavaliers de Dol Amroth proches gagnent \n +33% de Dï¿½gï¿½ts et d'Armure \n Et Gagne de l'Expï¿½rience 50% plus rapidement \n Bonus Cumulable \n Pouvoir Passif"
 END
 
 CONTROLBAR:ToolTipSummonedSpiderlingVenomSacks 
 //"Inflicts poison to enemies causing damage over time"
-"Inflige du Poison aux ennemis causant des dégâts supplémentaires \n Capacité Passive"
+"Inflige du Poison aux ennemis causant des dï¿½gï¿½ts supplï¿½mentaires \n Capacitï¿½ Passive"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest
 //"Allows summoning of a Fire Drake"
 //"Allows summoning of a Fire Drake\nSlowly heals nearby Drogoth"
-"Permet l'Invocation d'un Drake de Feu \n Permet la guérison de Drogoth et des Drakes de feu"
+"Permet l'Invocation d'un Drake de Feu \n Permet la guï¿½rison de Drogoth et des Drakes de feu"
 END
 
 TOOLTIP:LackDragonNestWebCocoon
 //"Requires the Web Cocoon upgrade \n Allows summoning of the Fire Drake"
 //"Requires the Web Cocoon upgrade \n Allows summoning of the Fire Drake \n Slowly heals nearby Drogoth"
-"Requiert l'amélioration Cocon de toile \n Permet d'invoquer le drake de feu \n Permet la guérison de Drogoth et des Drakes de feu"
+"Requiert l'amï¿½lioration Cocon de toile \n Permet d'invoquer le drake de feu \n Permet la guï¿½rison de Drogoth et des Drakes de feu"
 END
 
 TOOLTIP:LackEagleNestEncasingVines
 //"Requires the Encasing Vines upgrade \n Allows summoning of a Giant Eagle"
-"Requiert l'amélioration Vignes enchevêtrées \n Permet d'invoquer un aigle \n Permet la guérison des aigles"
+"Requiert l'amï¿½lioration Vignes enchevï¿½trï¿½es \n Permet d'invoquer un aigle \n Permet la guï¿½rison des aigles"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressEaglesNest
 //"Allows summoning of a Giant Eagle"
-"Permet d'Invoquer un Aigle \n Permet la Guérison des Aigles"
+"Permet d'Invoquer un Aigle \n Permet la Guï¿½rison des Aigles"
 END
 
 CONTROLBAR:TooltipFarsight
 //"Reveals shroud in targeted area \n Left click icon then left click on target area"
 //"Reveals shroud in targeted area\n Detects stealthed units \n Modifier Type: Spell \n Temporarily grants targeted allied units +25% Vision and +25% Range \n Stacks with Buffs, Leadership and other Spells \n Left click icon then left click on targeted area or units"
-"Révèle le brouillard dans la zone cible \n Détecte les unités furtives \n Type d'action : Sort \n Accorde temporairement aux unités alliées ciblées +15% de portée et +50% de champ de vision \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Rï¿½vï¿½le le brouillard dans la zone cible \n Dï¿½tecte les unitï¿½s furtives \n Type d'action : Sort \n Accorde temporairement aux unitï¿½s alliï¿½es ciblï¿½es +15% de portï¿½e et +50% de champ de vision \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityDrakeBroodInferno
 //"Requires Level 7 \n Breathes fire over a selected area \n Left click icon then left click on target area"
-"Requiert : niveau 5 \n Souffle du feu sur une zone sélectionnée \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiertï¿½: niveau 5 \n Souffle du feu sur une zone sï¿½lectionnï¿½e \n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain +50% Damage and +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain \n+50% Damage, +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Type: Buff \n Black Numenoreans gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
-"Requiert : niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +50% dégâts et +50% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiertï¿½: niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +50% dï¿½gï¿½ts et +50% armure \n S'accumule avec le charisme et les sorts \n Inflige un mï¿½ta impact \n Clic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipGoblinKingMount
 //"Requires Level 3 \n Mount and unmount the Goblin King's scorpion"
 //"Requires Level 3 \n Left click to mount and unmount the Goblin King's scorpion \n When mounted, the scorpion allows the Goblin King to deal increased damage"
-"Requiert : niveau 3 \n Clic gauche pour faire monter ou descendre le Roi Gobelin de son scorpion \n Lorsqu'il est monté, Le Roi Gobelin inflige +50% de Dégâts"
+"Requiertï¿½: niveau 3 \n Clic gauche pour faire monter ou descendre le Roi Gobelin de son scorpion \n Lorsqu'il est montï¿½, Le Roi Gobelin inflige +50% de Dï¿½gï¿½ts"
 End
 
 CONTROLBAR:MenLongShotAbilitySummoned
@@ -51750,14 +51740,14 @@ CONTROLBAR:MenLongShotAbilitySummoned
 End
 
 CONTROLBAR:ToolTipMenLongShotAbilitySummoned
-"Les archers bombardent n'importe où dans un important rayon avec une volée de flèches\n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les archers bombardent n'importe oï¿½ dans un important rayon avec une volï¿½e de flï¿½ches\n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone cible"
 End
 
 OBJECT:HearthWellDescription
 //"Nearby allies will heal if not under attack"
 //"Heals nearby allies"
 //"Heals nearby allies \n Detects stealth" 
-"Tout allié à proximité sera soigné \n Détecte les unités furtives"
+"Tout alliï¿½ ï¿½ proximitï¿½ sera soignï¿½ \n Dï¿½tecte les unitï¿½s furtives"
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotem
@@ -51766,13 +51756,13 @@ CONTROLBAR:TooltipGoblinKingSkullTotem
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Nearby allies gain\n+50% damage, +50% armor\n Left click icon then left click on target area"
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Modifier Type: Buff \n Nearby allies gain +50% damage and +50% armor \n Stacks with Leadership and Spells \n Left click icon then left click on target area"
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Modifier Type: Buff \n Nearby allies gain +50% damage, +50% armor and become immune to fear and terror \n Stacks with Leadership and Spells \n Left click icon then left click on target area"
-"Requiert : niveau 2 \n Place un totem de crâne qui restera sur la carte jusqu'à sa destruction \n Type d'action : Renforcement \n Les alliés à proximité gagnent +50% de dégâts et +50% d'armure et sont insensibles à la peur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 2 \n Place un totem de crï¿½ne qui restera sur la carte jusqu'ï¿½ sa destruction \n Type d'action : Renforcement \n Les alliï¿½s ï¿½ proximitï¿½ gagnent +50% de dï¿½gï¿½ts et +50% d'armure et sont insensibles ï¿½ la peur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipBattleWagonUpgradeHearth
 // "Allies near the Battlewagon gain +50% Damage and +50% Armor \n Detects stealth \n Does not stack"
 //"Heals nearby allies and slowly replenishes unit battalions \n Allows the Battlewagon to auto-heal \n Detects stealth"
-"Soigne les alliés prochent \n Permet au Chariot de se Guérir \n détecte la furtivité"
+"Soigne les alliï¿½s prochent \n Permet au Chariot de se Guï¿½rir \n dï¿½tecte la furtivitï¿½"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeMenOfDale
@@ -51792,12 +51782,12 @@ CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier
 //"Nearby allies gain \n+33% Damage, +33% Armor, \n and earn experience 50% faster\nAdds several Phalanxes to the Battlewagon"
 //"Modifier Type: Leadership \n Nearby allies gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Adds several Phalanxes to the Battlewagon"
 //"Modifier Type: Leadership \n Nearby allies gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Adds several Phalanxes to the Battlewagon \n Strong vs. Cavalry"
-"Type d'action : Charisme \n Les alliés à proximité gagnent +33% de dégâts, +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Ajoute plusieurs phalanges sur le chariot \n Efficace contre Cavalerie"
+"Type d'action : Charisme \n Les alliï¿½s ï¿½ proximitï¿½ gagnent +33% de dï¿½gï¿½ts, +33% d'armure, et l'expï¿½rience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Ajoute plusieurs phalanges sur le chariot \n Efficace contre Cavalerie"
 End
 
 CONTROLBAR:ToolTipAxeThrow
 //"Powerful ranged attack against a single target \n Left click icon then left click on target"
-"Puissante attaque à distance avec des dommages en zone \n Efficace contre Héros et Monstres \n Cliquez sur l'icône puis clic gauche sur la cible"
+"Puissante attaque ï¿½ distance avec des dommages en zone \n Efficace contre Hï¿½ros et Monstres \n Cliquez sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipLoneTower
@@ -51805,18 +51795,18 @@ CONTROLBAR:TooltipLoneTower
 //"Summons a defensive tower \n Benefits from fortress armor and munitions upgrades \n Left click icon then left click on pathable location"
 //"Summons a defensive Tower \n Benefits from Fortress Armor and Munitions upgrades \n Left click icon then left click on pathable location"
 //"Summons a defensive Tower that can be garrisoned with units \n Detects stealthed units \n Benefits from Fortress Armor and Munitions upgrades \n Left click icon then left click on pathable location"
-"Invoque une tour d'archers défensive \n Detecte les Unités cachées \n Bénéficie des améliorations d'armure et de munitions de la forteresse \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque une tour d'archers dï¿½fensive \n Detecte les Unitï¿½s cachï¿½es \n Bï¿½nï¿½ficie des amï¿½liorations d'armure et de munitions de la forteresse \n Clic gauche sur l'icï¿½ne puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:TooltipMenOfDaleAllies
 //"Summons the Men of Dale \n Left click icon then left click on pathable location"
-"Invoque les Hommes de Dale équipés d'améliorations \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque les Hommes de Dale ï¿½quipï¿½s d'amï¿½liorations \n Clic gauche sur l'icï¿½ne puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipSummonDunedainAllies
 //"Summons a group of Dunedain Rangers \n Left click icon then left click on pathable location" 
 //"Summons a group of Dunedain Rangers with the ability to bombard enemies with Longshot arrow volleys \n Left click icon then left click on pathable location" 
-"Invoque un groupe de rôdeurs Dúnedain \n Clic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque un groupe de rï¿½deurs Dï¿½nedain \n Clic gauche sur l'icï¿½ne puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:ToolTipSlayer
@@ -51827,31 +51817,31 @@ CONTROLBAR:ToolTipSlayer
 //"Requires Level 5 \n Gimli gains +100% Damage and\nincreased attack speed \n Left click to activate"
 //"Requires Level 5 \n Gimli gains +100% Damage and\nincreased attack and movement speed \n Left click to activate"
 //"Requires Level 5 \n Gimli gains +50% Damage and \n increased attack and movement speed \n Left click to activate"
-"Requiert niveau 5\n Gimli gagne +50 de Dégâts\nAugmentation de l'attaque et de la vitesse de déplacement\nClic gauche pour activer"
+"Requiert niveau 5\n Gimli gagne +50 de Dï¿½gï¿½ts\nAugmentation de l'attaque et de la vitesse de dï¿½placement\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipConstructWildBurrowsExpansion
 //"Connects this Fortress to the tunnel network"
 //"Connects this Fortress to the tunnel network\nIncreases command point limit"
 //"Connects this Fortress to the tunnel network \n Increases command point limit by 75"
-"Connecte cette forteresse au réseau des tunnels\n Augmente les pts de commandement de 75"
+"Connecte cette forteresse au rï¿½seau des tunnels\n Augmente les pts de commandement de 75"
 
 END
 OBJECT:WildFortressBurrowsExpansionDescription
 //"Allows access to the tunnel network"
 //"Allows access to the tunnel network\nIncreases command point limit"
 //"Allows access to the tunnel network \n Increases command point limit by 75"
-"Permet d'acceder au réseau des tunnels\n Augmente les pts de commandement de 75"
+"Permet d'acceder au rï¿½seau des tunnels\n Augmente les pts de commandement de 75"
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel3
 //"Allows research of the Fire Arrows upgrade \n +25% Faster Build Speed"
 //"Allows research of Heavy Armor and Fire Arrows \n +25% Faster Build Speed"
-"Permet la recherche de l'amélioration Armure Lourde et Flèches Enflammées\nVitesse de construction + 25%"
+"Permet la recherche de l'amï¿½lioration Armure Lourde et Flï¿½ches Enflammï¿½es\nVitesse de construction + 25%"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
-"Permet l'entraînement des corsaires d'Umbar et\n des lanciers Haradrim \n Vitesse de construction +10%"
+"Permet l'entraï¿½nement des corsaires d'Umbar et\n des lanciers Haradrim \n Vitesse de construction +10%"
 //"Allows training of Corsairs of Umbar and Haradrim Lancers\n +10% Faster Build Speed"
 //"Allows training of Haradrim Lancers\n +10% Faster Build Speed"
 End
@@ -51860,11 +51850,11 @@ CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
 //"Allows training of Haradrim Archers and Fire Arrows\nAdds defensive Arrow Tower \n +25% Faster Build Speed"
 //"Allows training of Haradrim Archers\nand Fire Arrows \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
 //"Allows training of Haradrim Archers \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
-"Permet l'entraînement des archers Haradrim\n Permet la recherche des flèches enflammées \n Ajoute une tour d'archers défensive \n Vitesse de construction +25%"
+"Permet l'entraï¿½nement des archers Haradrim\n Permet la recherche des flï¿½ches enflammï¿½es \n Ajoute une tour d'archers dï¿½fensive \n Vitesse de construction +25%"
 End
 
 CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarHorde
-"Requiert : Palais Haradrim niveau 2\nFort contre piquiers"
+"Requiertï¿½: Palais Haradrim niveau 2\nFort contre piquiers"
 //"Requires Level 2 Haradrim Palace \nStrong vs. Pikemen"
 //"Strong vs. Pikemen and Structures \n Able to alternate between Knives and Firebombs"
 END
@@ -51876,14 +51866,14 @@ CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarInnHorde
 END
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
-"Permet la construction de la catapulte \n Permet la recherche des lames forgées \n Permet de soigner les armes de siège proches \n Vitesse de construction +10%"
+"Permet la construction de la catapulte \n Permet la recherche des lames forgï¿½es \n Permet de soigner les armes de siï¿½ge proches \n Vitesse de construction +10%"
 //"Allows construction of the Catapult \nAllows research of Forged Blades \n +10% Faster Build Speed"
 //"Allows construction of the Catapult \nAllows research of Forged Blades \n Allows healing of nearby siege weapons \n +10% Faster Build Speed"
 //"Allows construction of the Catapult \n Allows healing of nearby siege weapons \n +10% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"Permet la recherche de l'armure lourde \n Permet le recrutement les cavaliers noirs \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25%"
+"Permet la recherche de l'armure lourde \n Permet le recrutement les cavaliers noirs \n Augmente la vitesse de guï¿½rison des armes de siï¿½ge \n Vitesse de construction +25%"
 //"Allows research of Heavy Armor and summoning of the Black Riders \n+25% Faster Build Speed"
 //"Allows research of Heavy Armor \nand summoning of the Black Riders \n Adds defensive Arrow Tower \n+25% Faster Build Speed"
 //"Allows research of Heavy Armor \nand summoning of the Black Riders \n+25% Faster Build Speed"
@@ -51892,7 +51882,7 @@ CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
 End
 
 CONTROLBAR:ToolTipordorSiegeWorks
-"Produit les engins sièges et invoque les Cavaliers noirs \n Recherche les Améliorations d'Armes et d'Armures"
+"Produit les engins siï¿½ges et invoque les Cavaliers noirs \n Recherche les Amï¿½liorations d'Armes et d'Armures"
 //"Builds siege weapons and summons the Black Riders \nResearches weapon and armor upgrades"
 //"Builds siege weapons and summons the Black Riders"
 END
@@ -51901,7 +51891,7 @@ CONTROLBAR:TooltipUntamedAllegiance
 //"Cast on a Lair to gain control of the Lair and associated creatures \n Left click icon then left click on target Lair"
 //"Cast on a Lair to gain control of the Lair and associated creatures\nLeft click icon then left click on target Lair"
 //"Cast on a Lair to gain control of the Lair and associated creatures \n Cast on a Troll Cage, Mumakil Pen, Spider Pit, Fissure, Troll and Wolf Den, or Warg Pit to increase production by 50% \n Left click icon then left click on target Lair or production building"
-"Lancez sur un repaire pour prendre le contrôle du repaire et des créatures associées \n Lancez sur une cage à Trolls, un enclos des Mûmakil, une fosse des araignées, une fissure, un repaire de Trolls et de Loups, ou une fosse des Ouargues pour augmenter sa production de 75% \n Clic gauche sur l'icône puis clic gauche sur le repaire ou le bâtiment de production"
+"Lancez sur un repaire pour prendre le contrï¿½le du repaire et des crï¿½atures associï¿½es \n Lancez sur une cage ï¿½ Trolls, un enclos des Mï¿½makil, une fosse des araignï¿½es, une fissure, un repaire de Trolls et de Loups, ou une fosse des Ouargues pour augmenter sa production de 75% \n Clic gauche sur l'icï¿½ne puis clic gauche sur le repaire ou le bï¿½timent de production"
 //"Cast on a Lair to gain control of the Lair and associated creatures \n Cast on a Troll Cage, Mumakil Pen, Goblin Cave, Spider Pit, Fissure, Troll and Wolf Den, or Warg Pit to increase production by 75% \n Left click icon then left click on target Lair or production building"
 END
 
@@ -51909,7 +51899,7 @@ CONTROLBAR:ToolTipMoveUnseen
 //"Requires Level 3 \n Allows all targeted allies to become temporarily stealthed \n Left click icon then left click on target units"
 //"Requires Level 7 \n Allows all targeted allies to become temporarily stealthed \n Left click icon then left click on target units"
 //"Requires Level 3 \n Allows all targeted allies to become temporarily stealthed \n Left click icon then left click on target units"
-"Requiert : niveau 3 \n Tous les alliés visés deviennent temporairement furtifs \n Clic gauche sur l'icône puis clic gauche sur les unités ciblées"
+"Requiertï¿½: niveau 3 \n Tous les alliï¿½s visï¿½s deviennent temporairement furtifs \n Clic gauche sur l'icï¿½ne puis clic gauche sur les unitï¿½s ciblï¿½es"
 END
 
 //////////////
@@ -51919,21 +51909,21 @@ END
 CONTROLBAR:ToolTipToggleStanceBattle
 //"Shortcut: F \n This is the default unit stance \n They will auto-acquire enemies within a medium range"
 //"Shortcut: F \n This is the default unit stance \n No bonus \n Units will auto-acquire enemies within a medium range"
-"Raccourci : F \n Posture par défaut des unités \n Pas de bonus \n Les unités cibleront automatiquement les ennemis passant à moyenne portée"
+"Raccourci : F \n Posture par dï¿½faut des unitï¿½s \n Pas de bonus \n Les unitï¿½s cibleront automatiquement les ennemis passant ï¿½ moyenne portï¿½e"
 END
 
 CONTROLBAR:ToolTipToggleStanceAggressive
 //"Shortcut: D \n Units gain an increase to their attack damage, but a decrease to their armor \n They will auto-acquire enemies when sighted"
 //"Shortcut: D \n Swordsmen: +25% Damage, -15% Armor \n Archers: +20% Damage, -20% Armor \n Pikemen: +25% Damage, -15% Armor \n Cavalry: +25% Damage, -15% Armor \n Siege: +15% Range, -20% Armor \n Heroes: +10% Damage, +10% Speed, -20% Armor \n Monsters: +10% Damage, -15% Armor \n\n Units will auto-acquire enemies when sighted"
 //"Shortcut: D \n Swordsmen: +25% Damage, -15% Armor \n Archers: +20% Damage, -15% Armor \n Pikemen: +25% Damage, -15% Armor \n Cavalry: +25% Damage, -15% Armor \n Siege: +15% Range, -20% Armor \n Heroes: +10% Damage, -15% Armor \n Monsters: +10% Damage, -15% Armor \n\n Units will auto-acquire enemies when sighted"
-"Raccourci : D \n Epéistes : +25% de dégâts, -15% d'armure \n Archers : +20% de dégâts, -15% d'armure \n Piquiers : +25% de dégâts, -15% d'armure \n Cavalerie : +25% de dégâts, -15% d'armure \n Armes de siège : +15% de portée, -20% d'armure \n Héros : +10% de dégâts, -15% d'armure \n Monstres : +10% de dégâts, -15% d'armure \n\n L'ennemi est ciblé automatiquement dès qu'il est en vue"
+"Raccourci : D \n Epï¿½istes : +25% de dï¿½gï¿½ts, -15% d'armure \n Archers : +20% de dï¿½gï¿½ts, -15% d'armure \n Piquiers : +25% de dï¿½gï¿½ts, -15% d'armure \n Cavalerie : +25% de dï¿½gï¿½ts, -15% d'armure \n Armes de siï¿½ge : +15% de portï¿½e, -20% d'armure \n Hï¿½ros : +10% de dï¿½gï¿½ts, -15% d'armure \n Monstres : +10% de dï¿½gï¿½ts, -15% d'armure \n\n L'ennemi est ciblï¿½ automatiquement dï¿½s qu'il est en vue"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGround
 //"Shortcut: G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
 //"Shortcut: G \n Swordsmen: +25% Armor, -15% Damage \n Archers: +20% Armor, -10% Damage \n Pikemen: +25% Armor, -15% Damage \n Cavalry: +25% Armor, -15% Damage, -15% Speed \n Siege: +10% Armor, -15% Range \n Heroes: +10% Armor, -20% Damage, -10% Speed \n Monsters: +10% Armor, -20% Damage \n\n Units will not auto-acquire enemies"
 //"Shortcut: G \n Swordsmen: +33% Armor, -15% Damage \n Archers: +20% Armor, -10% Damage \n Pikemen: +25% Armor, -15% Damage \n Cavalry: +33% Armor, -15% Damage, -15% Speed \n Siege: +10% Armor, -15% Range \n Heroes: +10% Armor, -20% Damage, -10% Speed \n Monsters: +10% Armor, -20% Damage \n\n Units will not auto-acquire enemies"
-"Raccourci : G \n Epéistes : +33% d'armure, -15% de dégâts \n Archers : +20% d'armure, -10% de dégâts \n Piquiers : +25% d'armure, -15% de dégâts \n Cavalerie : +33% d'armure, -15% de dégâts, -15% de vitesse \n Armes de siège : +10% d'armure, -15% de portée \n Héros : +10% d'armure, -20% de dégâts, -10% de vitesse \n Monstres : +10% d'armure, -20% de dégâts \n\n Les ennemis ne sont pas ciblés automatiquement"
+"Raccourci : G \n Epï¿½istes : +33% d'armure, -15% de dï¿½gï¿½ts \n Archers : +20% d'armure, -10% de dï¿½gï¿½ts \n Piquiers : +25% d'armure, -15% de dï¿½gï¿½ts \n Cavalerie : +33% d'armure, -15% de dï¿½gï¿½ts, -15% de vitesse \n Armes de siï¿½ge : +10% d'armure, -15% de portï¿½e \n Hï¿½ros : +10% d'armure, -20% de dï¿½gï¿½ts, -10% de vitesse \n Monstres : +10% d'armure, -20% de dï¿½gï¿½ts \n\n Les ennemis ne sont pas ciblï¿½s automatiquement"
 END
 
 /////////////////////
@@ -51943,7 +51933,7 @@ END
 OBJECT:OutpostDescription
 //"Capture to generate extra resources"
 "Capture to generate extra resources \n Increases command point limit by 25"
-"Capturez-le pour produire des ressources supplémentaires \n Augmente les pts de Commandement de 25"
+"Capturez-le pour produire des ressources supplï¿½mentaires \n Augmente les pts de Commandement de 25"
 End
 
 OBJECT:RohanEntBirch
@@ -51955,37 +51945,37 @@ OBJECT:RohanEntFir
 End
 
 OBJECT:RohanEntAsh
-"Ent Frêne"
+"Ent Frï¿½ne"
 End
 
 OBJECT:RohanEntOak
-"Ent Chêne"
+"Ent Chï¿½ne"
 End
 
 APT:CEFeatures
-"Fonctionnalités de l'Édition Collector"
+"Fonctionnalitï¿½s de l'ï¿½dition Collector"
 END
 
 OBJECT:MordorSoldierOfRhun
-"Soldat de Rhûn"
+"Soldat de Rhï¿½n"
 END
 
 CONTROLBAR:BattleWagonUpgradeAxeThrowers
 //"Upgrade &with Axe Throwers"
-"Améliorer avec des lanceurs de ha&ches"
+"Amï¿½liorer avec des lanceurs de ha&ches"
 End
 
 CONTROLBAR:BattleWagonUpgradeBannerCarrier
-"Améliorer avec un porte-éte&ndard"
+"Amï¿½liorer avec un porte-ï¿½te&ndard"
 End
 
 CONTROLBAR:BattleWagonUpgradeHearth
 //"Upgrade wi&th Hearth"
-"Améliorer avec &un foyer"
+"Amï¿½liorer avec &un foyer"
 End
 
 CONTROLBAR:BattleWagonUpgradeMenOfDale
-"Améliorer avec des Hommes de Da&le"
+"Amï¿½liorer avec des Hommes de Da&le"
 End
 
 CONTROLBAR:TooltipNecroFellStrength
@@ -51993,7 +51983,7 @@ CONTROLBAR:TooltipNecroFellStrength
 //"Drains enemy units of strength \n Nearby friendly units gain\n+50% damage, +50% armor\n Left click icon then left click on target area"
 //"Drains enemy units of strength\nTargeted enemy units take slight damage\nNearby friendly units gain\n+33% Damage, +33% Armor\n Left click icon then left click on target area"
 //"Drains enemy units of strength \n Modifier Type: Spell and Active Debuff \n Targeted enemy units take slight damage and briefly suffer -25% Damage and -20% Armor \n Nearby friendly units gain\n+33% Damage and +33% Armor \n Nullifies enemy Leadership \n Stacks with Buffs, Leadership and other Spells \n Does not stack with other Debuffs \n Left click icon then left click on target area"
-"Absorbe la force des unités adverses \n Type d'action : Sort et affaiblissement actif \n Les unités ennemies ciblées subissent de légers dégâts et perdent temporairement -25% de Dégâts et -20% Armure \n Les unités alliées gagnent +33% de dégâts et +33% d'armure\n Annule les Passifs adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
+"Absorbe la force des unitï¿½s adverses \n Type d'action : Sort et affaiblissement actif \n Les unitï¿½s ennemies ciblï¿½es subissent de lï¿½gers dï¿½gï¿½ts et perdent temporairement -25% de Dï¿½gï¿½ts et -20% Armure \n Les unitï¿½s alliï¿½es gagnent +33% de dï¿½gï¿½ts et +33% d'armure\n Annule les Passifs adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone souhaitï¿½e"
 End
 
 CONTROLBAR:TooltipNecroBlackIce
@@ -52003,7 +51993,7 @@ CONTROLBAR:TooltipNecroBlackIce
 //"Targeted enemy units suffer -33% Speed \n Extinguishes fires \n Left click icon then left click on target area"
 //"Modifier Type: Spell \n Targeted enemy units suffer -33% Speed \n Stacks with Buffs, Leadership and other Spells \n Extinguishes fires \n Left click icon then left click on target area"
 //"Modifier Type: Spell \n Targeted enemy units suffer -33% Speed and -33% Attack Rate \n Stacks with Buffs, Leadership and other Spells \n Extinguishes fires \n Left click icon then left click on target area"
-"Type d'action : Sort \n Les unités ennemies ciblées souffrent de -33% de vitesse et -33% de vitesse d'attaque \n S'accumule avec les renforcements, le charisme et les autres sorts \n Éteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'action : Sort \n Les unitï¿½s ennemies ciblï¿½es souffrent de -33% de vitesse et -33% de vitesse d'attaque \n S'accumule avec les renforcements, le charisme et les autres sorts \n ï¿½teint les incendies \n Clic gauche sur l'icï¿½ne puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:Elendil
@@ -52023,7 +52013,7 @@ CONTROLBAR:ToolTipHaldirLeadership
 //"Requires Level 6 \n Allies near Haldir gain \n +33% Damage, +33% Armor,\n and earn experience 50% faster\n Passive ability"
 //"Requires Level 6 \n Modifier Type: Leadership \n Allies near Haldir gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
 //"Requires Level 5 \n Modifier Type: Leadership \n Allies near Haldir gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
-"Requiert : niveau 5 \n Type d'action : Charisme \n Les alliés près de Haldir gagnent +33% de dégâts, +33% armure, et l'expérience est gagnée 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Requiert : niveau 5 \n Type d'action : Charisme \n Les alliï¿½s prï¿½s de Haldir gagnent +33% de dï¿½gï¿½ts, +33% armure, et l'expï¿½rience est gagnï¿½e 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacitï¿½ passive"
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
@@ -52050,7 +52040,7 @@ CONTROLBAR:ToolTipWoundingArrow
 //"Requires Level 2 \n Single ranged attack\nCauses target monster to flee\nCan only use with bow equipped\nLeft click icon then left click on target"
 //"Requires Level 2 \n Single ranged attack\nCauses target units to flee \nCan only use with bow equipped\nLeft click icon then left click on target"
 //"Requires Level 2 \n Single ranged attack \n Temporarily slows down target unit or hordes \n Causes target Monster to flee \n Can only use with bow equipped\nLeft click icon then left click on target"
-"Requiert : niveau 2 \n Simple attaque à distance \n Ralentit temporairement la cible \n Provoque la fuite des ennemis ciblés \n Utilisable uniquement lorsque l'arc est équipé \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Simple attaque ï¿½ distance \n Ralentit temporairement la cible \n Provoque la fuite des ennemis ciblï¿½s \n Utilisable uniquement lorsque l'arc est ï¿½quipï¿½ \n Clic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 TOOLTIP:LackLevel3BlacksmithHeavyArmor
@@ -52077,7 +52067,7 @@ OBJECT:GondorMarketPlaceDescription
 //"Increases resources from Farms by 12%"
 //"Increases resources from farms by 15%"
 //"Increases resources from farms by 15% \n Benefits all Men of the West allies"
-"Permet la Recherche d'Améliorations Économiques"
+"Permet la Recherche d'Amï¿½liorations ï¿½conomiques"
 END
 
 CONTROLBAR:ToolTipConstructMenMarketPlace
@@ -52086,11 +52076,11 @@ CONTROLBAR:ToolTipConstructMenMarketPlace
 //"Increases resources from Farms by 12%"
 //"Increases resources from Farms by 15%"
 //"Increases resources from farms by 15% \n Benefits all Men of the West allies"
-"Permet la Recherche d'Améliorations Économiques"
+"Permet la Recherche d'Amï¿½liorations ï¿½conomiques"
 END
 
 CONTROLBAR:PassiveGrandHarvestUpgrade
-"Récolte abondante"
+"Rï¿½colte abondante"
 End
 
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
@@ -52103,15 +52093,15 @@ END
 OBJECT:SignalFireDescription
 //"Capture to decrease power recharge times"
 //"Capture to reveal a large area of the shroud"
-"Capture pour révéler une grande zone de la brume"
+"Capture pour rï¿½vï¿½ler une grande zone de la brume"
 End
 
 CONTROLBAR:ToolTipFaramirMount
-"Requiert Niveau 3 \n Clic Gauche pour Alterner\n Monté et à Pied"
+"Requiert Niveau 3 \n Clic Gauche pour Alterner\n Montï¿½ et ï¿½ Pied"
 END
 
 CONTROLBAR:ToolTipFryingPan
-"Puissante attaque de mêlée\nClic gauche sur l'icône puis clic gauche sur la cible"
+"Puissante attaque de mï¿½lï¿½e\nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipDarkGlory
@@ -52121,7 +52111,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requires Level 7 \n Morgomir and nearby Dark Dunedain gain\n+33% Damage, +33% Armor \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +33% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +50% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
-"Requiert : niveau 7 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +50% de dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
+"Requiert : niveau 7 \n Type d'Action : Sort \n Morgomir et les Dunedains ï¿½ proximitï¿½ gagnent +50% de dï¿½gï¿½ts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
@@ -52130,44 +52120,44 @@ CONTROLBAR:ToolTipGothmogIronHand
 //"Requires Level 4 \n Orcs near Gothmog gain immunity to fear and terror \n Passive Ability"
 //"Requires Level 4 \n Orcs near Gothmog gain immunity to Fear and Terror \n Passive Ability"
 "//Requires Level 5 \n Allies near Gothmog gain immunity to Fear and Terror \n Passive Ability"
-"Requiert : niveau 5 \n Les orques près de Gothmog ne ressentent ni la peur, ni la terreur \n Capacité passive"
+"Requiert : niveau 5 \n Les orques prï¿½s de Gothmog ne ressentent ni la peur, ni la terreur \n Capacitï¿½ passive"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
 //"Requires Level 7 \n Give targeted units experience\n Left click icon then left click on target units"
 //"Requires Level 7 \nGive targeted units superior experience\n Left click icon then left click on target units"
 //"Requires Level 4 \n Give targeted units superior experience \n Left click icon then left click on target units"
-"Requiert : niveau 4\nLes unités ciblées obtiennent une expérience supérieure \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 4\nLes unitï¿½s ciblï¿½es obtiennent une expï¿½rience supï¿½rieure \nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:FryingPan
 //"Frying Pan"
-"Poêle"
+"Poï¿½le"
 
 CONTROLBAR:ToolTipBuildGandalf
 //"Recruit the Wizard armed with an arsenal of mighty magical powers"
 //"Recruit the Wizard armed with an arsenal of mighty magical powers \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n \n Allies near Gandalf become immune to Fear and Terror"
 //"Recruit the Wizard armed with an arsenal of mighty magical powers \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n Gandalf the White \n Requires Level 5 \n Grants Gandalf +500 health and reduces spell recharge rate by 25% \n Allies near Gandalf become immune to Fear and Terror"
-"Recruter le Magicien armé d'un arsenal de pouvoirs magiques \n\n Bulle protectrice (U) \n Offre à Gandalf +300% d'armure et une résistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacités est diminué de 25% \n Les alliés proches de Gandalf sont immunisés à la peur et à la terreur"
+"Recruter le Magicien armï¿½ d'un arsenal de pouvoirs magiques \n\n Bulle protectrice (U) \n Offre ï¿½ Gandalf +300% d'armure et une rï¿½sistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacitï¿½s est diminuï¿½ de 25% \n Les alliï¿½s proches de Gandalf sont immunisï¿½s ï¿½ la peur et ï¿½ la terreur"
 END
 CONTROLBAR:GandalfTheWhiteRecruit
 //"Recruit the Wizard armed with an arsenal of mighty magical powers"
 //"Recruit the Wizard armed with an arsenal of mighty magical powers \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n Gandalf the White \n Requires Level 5 \n Allies near Gandalf become immune to Fear and Terror"
 //"Recruit the Wizard armed with an arsenal of mighty magical powers \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n Gandalf the White \n Requires Level 5 \n Grants Gandalf +500 health and reduces spell recharge rate by 25% \n Allies near Gandalf become immune to Fear and Terror"
-"Recruter le Magicien armé d'un arsenal de pouvoirs magiques \n\n Bulle protectrice (U) \n Offre à Gandalf +300% d'armure et une résistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacités est diminué de 25% \n Les alliés proches de Gandalf sont immunisés à la peur et à la terreur"
+"Recruter le Magicien armï¿½ d'un arsenal de pouvoirs magiques \n\n Bulle protectrice (U) \n Offre ï¿½ Gandalf +300% d'armure et une rï¿½sistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacitï¿½s est diminuï¿½ de 25% \n Les alliï¿½s proches de Gandalf sont immunisï¿½s ï¿½ la peur et ï¿½ la terreur"
 END
 CONTROLBAR:GandalfTheWhiteRevive
 //"Revive the fallen Hero, Gandalf"
 //"Revive the fallen Hero, Gandalf \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n Gandalf the White \n Requires Level 5 \n Allies near Gandalf become immune to Fear and Terror"
 //"Revive the fallen Hero, Gandalf \n \n Shield Bubble (U) \n Temporarily grants Gandalf +300% Armor and resistance to knockback attacks \n \n Gandalf the White \n Requires Level 5 \n Grants Gandalf +500 health and reduces spell recharge rate by 25% \n Allies near Gandalf become immune to Fear and Terror"
-"Rappeler Gandalf à la vie \n\n Bulle protectrice (U) \n Offre à Gandalf +300% d'armure et une résistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacités est diminué de 25% \n Les alliés proches de Gandalf sont immunisés à la peur et à la terreur"
+"Rappeler Gandalf ï¿½ la vie \n\n Bulle protectrice (U) \n Offre ï¿½ Gandalf +300% d'armure et une rï¿½sistance aux attaques assommantes \n\n Gandalf le Blanc \n Requiert : niveau 5 \n Gandalf gagne +500 Pts de Vie et le Temps de recharge de ses capacitï¿½s est diminuï¿½ de 25% \n Les alliï¿½s proches de Gandalf sont immunisï¿½s ï¿½ la peur et ï¿½ la terreur"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade
 //"Requires Level 4 \n Targeted enemy takes poison damage over \n time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Temporarily cripples non-Monster unit \n Monster suffers -33% Speed \n Left click icon then left click on target"
-"Requiert : niveau 4 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiertï¿½: niveau 4 \n Les ennemis ciblï¿½s subissent des dï¿½gï¿½ts de poison au fil du temps et se transforment en spectre aprï¿½s la mort \n Immobilise Temporairement l'unitï¿½ non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipMorgomirMorgulBlade
@@ -52175,14 +52165,14 @@ CONTROLBAR:ToolTipMorgomirMorgulBlade
 //"Requires Level 5 \n Targeted enemy takes poison damage over \n time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 5 \n Targeted enemy takes poison damage over time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 5 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Temporarily cripples non-Monster unit \n Monster suffers -33% Speed \n Left click icon then left click on target"
-"Requiert : niveau 5 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiertï¿½: niveau 5 \n Les ennemis ciblï¿½s subissent des dï¿½gï¿½ts de poison au fil du temps et se transforment en spectre aprï¿½s la mort \n Immobilise Temporairement l'unitï¿½ non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipMordorWitchkingMorgulCorruption
 //"Requires Level 4 \n Targeted enemy takes poison damage\nover time, and becomes a wight upon death \n Can only use when dismounted \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Can only use when dismounted \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Temporarily cripples non-Monster unit \n Monster suffers -33% Speed \n Can only use when dismounted \n Left click icon then left click on target"
-"Requiert : niveau 4 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \n Utilisable à pied seulement \nClic gauche sur l'icône puis clic gauche sur la cible"	
+"Requiertï¿½: niveau 4 \n Les ennemis ciblï¿½s subissent des dï¿½gï¿½ts de poison au fil du temps et se transforment en spectre aprï¿½s la mort \n Immobilise Temporairement l'unitï¿½ non-monstre  \n Les Monstres souffrent de -33% de Vitesse \n Utilisable ï¿½ pied seulement \nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"	
 End
 
 CONTROLBAR:ToolTipWitchkingMorgulCorruption
@@ -52191,7 +52181,7 @@ CONTROLBAR:ToolTipWitchkingMorgulCorruption
 //"Requires Level 4 \n Targeted enemy takes poison damage\nover time, and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 4 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Temporarily cripples non-Monster unit \n Monster suffers -33% Speed \n Left click icon then left click on target"
-"Requiert : niveau 4 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiertï¿½: niveau 4 \n Les ennemis ciblï¿½s subissent des dï¿½gï¿½ts de poison au fil du temps et se transforment en spectre aprï¿½s la mort \n Immobilise Temporairement l'unitï¿½ non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icï¿½ne puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToggleWitchkingWeapons
@@ -52200,19 +52190,19 @@ END
 
 CONTROLBAR:ToolTipToggleWitchkingWeapons
 //"Left click to toggle between sword and mace \n Toggle sword to enable Morgul Corruption \n Toggle mace to enable Screech \n Can only toggle when dismounted"
-"Clic Gauche pour alterner entre l'épée et la masse \n Alterner à l'épée pour activer Corruption de Morgul \n Alterner à la masse pour Activer le Cri"
+"Clic Gauche pour alterner entre l'ï¿½pï¿½e et la masse \n Alterner ï¿½ l'ï¿½pï¿½e pour activer Corruption de Morgul \n Alterner ï¿½ la masse pour Activer le Cri"
 END
 
 CONTROLBAR:ToolTipMordorHaradrimPalace
 //"Trains Haradrim and Easterlings"
 //"Trains Easterlings, Corsairs, and Haradrim"
-"Entraîne Haradrim, Corsaires et Orientaux"
+"Entraï¿½ne Haradrim, Corsaires et Orientaux"
 END
 
 CONTROLBAR:DescriptionToolTipMordorHaradrimPalace
 //"Trains Haradrim and Easterlings"
 //"Trains Easterlings, Corsairs, and Haradrim"
-"Entraîne Haradrim, Corsaires et Orientaux"
+"Entraï¿½ne Haradrim, Corsaires et Orientaux"
 END
 
 CONTROLBAR:ShelobWebbing
@@ -52223,7 +52213,7 @@ End
 CONTROLBAR:ToolTipShelobWebbing
 //"Cripples enemy units in spider webs"
 //"Spin webs around enemy units \n Modifier Type: Spell \n Targeted enemy units temporarily suffer -33% Speed and -33% Rate of Attack \n Stacks with Buffs, Leadership and other Spells \n Left click icon then left click on target"
-"Immobilise les unités ennemies dans des toiles d'araignées \n Type d'Action : Sort \n Les unités ciblés souffrent temporairement de -33% de Vitesse et -33% de Vitesse d'Attaque \n Bonus Accumulable avec Charisme, Buffs et autres Sorts"
+"Immobilise les unitï¿½s ennemies dans des toiles d'araignï¿½es \n Type d'Action : Sort \n Les unitï¿½s ciblï¿½s souffrent temporairement de -33% de Vitesse et -33% de Vitesse d'Attaque \n Bonus Accumulable avec Charisme, Buffs et autres Sorts"
 End
 
 CONTROLBAR:MenLoneTowerStealthDetection
@@ -52239,55 +52229,55 @@ CONTROLBAR:MordorSummonedBarricadeStealthDetection
 End
 
 CONTROLBAR:ToolTipMenLoneTowerStealthDetection
-"Détecte les Unités cachées proches de la Tour Invoquée \n Capacité Passive"
+"Dï¿½tecte les Unitï¿½s cachï¿½es proches de la Tour Invoquï¿½e \n Capacitï¿½ Passive"
 End
 
 CONTROLBAR:ToolTipDwarvenLoneTowerStealthDetection
-"Détecte les Unités cachées proches de la Tour Invoquée \n Capacité Passive"
+"Dï¿½tecte les Unitï¿½s cachï¿½es proches de la Tour Invoquï¿½e \n Capacitï¿½ Passive"
 End
 
 CONTROLBAR:ToolTipMordorSummonedBarricadeStealthDetection
-"Détecte les Unités cachées proches de la Barricade Invoquée \n Capacité Passive"
+"Dï¿½tecte les Unitï¿½s cachï¿½es proches de la Barricade Invoquï¿½e \n Capacitï¿½ Passive"
 End
 
 CONTROLBAR:MenLoneTowerFlamingMunitions
-"Munitions Enflammées"
+"Munitions Enflammï¿½es"
 End
 
 CONTROLBAR:DwarvenLoneTowerMasterworkMunitions
-"Maître des Munitions"
+"Maï¿½tre des Munitions"
 End
 
 CONTROLBAR:MordorSummonedBarricadeFlamingMunitions
-"Munitions Enflammées"
+"Munitions Enflammï¿½es"
 End
 
 CONTROLBAR:ToolTipMenLoneTowerFlamingMunitions
 //"Adds fire damage to the Lone Tower if within Wall construction radius \n Requires the Flaming Munitions upgrade from the Fortress \n Passive upgrade"
-"Ajoute des dégâts de feu à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration des Flèches Enflammées \n Amélioration Passive"
+"Ajoute des dï¿½gï¿½ts de feu ï¿½ la Tour Invoquï¿½e dans le Rayon de Construction des Murs \n Requiert l'Amï¿½lioration des Flï¿½ches Enflammï¿½es \n Amï¿½lioration Passive"
 End
 
 CONTROLBAR:ToolTipDwarvenLoneTowerMasterworkMunitions
 //"Adds forged blades to the Lone Tower if within Wall construction radius \n Requires the Masterwork Munitions upgrade from the Fortress \n Passive upgrade"
-"Ajoute les Lames Forgées à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration Maître des Munitions dans la Forteresse \n Capacité Passive"
+"Ajoute les Lames Forgï¿½es ï¿½ la Tour Invoquï¿½e dans le Rayon de Construction des Murs \n Requiert l'Amï¿½lioration Maï¿½tre des Munitions dans la Forteresse \n Capacitï¿½ Passive"
 End
 
 CONTROLBAR:ToolTipMordorSummonedBarricadeOrcFireMunitions
 //"Adds fire damage to the Summoned Barricade \n Requires the Flaming Munitions upgrade from the Fortress \n Passive upgrade"
-"Ajoute des Dégâts de Feu aux Barricade Invoquées \n Requiert les Munitions Enflammées \n Capacité Passive"
+"Ajoute des Dï¿½gï¿½ts de Feu aux Barricade Invoquï¿½es \n Requiert les Munitions Enflammï¿½es \n Capacitï¿½ Passive"
 End
 
 CONTROLBAR:MenLoneTowerNumenorStonework
-"Maçonnerie de Nûmenor"
+"Maï¿½onnerie de Nï¿½menor"
 End
 
 CONTROLBAR:DwarvenLoneTowerDwarvenStonework
-"Maçonnerie naine"
+"Maï¿½onnerie naine"
 End
 
 CONTROLBAR:ToolTipMenLoneTowerNumenorStonework
 //"Provides +67% Armor to the Lone Tower if within Wall construction radius \n Requires the Numenor Stonework upgrade from the Fortress \n Passive upgrade"
-"Confère +67% d'Armure à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration Maçonnerie de Nûmenor de la Forteresse \n Amélioration Passive"
+"Confï¿½re +67% d'Armure ï¿½ la Tour Invoquï¿½e dans le Rayon de Construction des Murs \n Requiert l'Amï¿½lioration Maï¿½onnerie de Nï¿½menor de la Forteresse \n Amï¿½lioration Passive"
 End
 
 CONTROLBAR:ToolTipDwarvenLoneTowerDwarvenStonework
@@ -52675,60 +52665,60 @@ END
 TOOLTIP:LackDwarvenSiegeHammer
 //"Research upgrade at Forge Works to enable this equipment \n When equipped, significantly increases the damage done by Melee Weapons to Structures"
 //"Research upgrade at Forge Works to enable this equipment \n When equipped, enables splash damage and significantly increases the damage done to Structures, but reduces the damage done to units"
-"Rechercher l'Amélioration dans le Hall des Guerriers pour activer cette équipement \n Une fois équipé, Augmente significativement les dégâts sur les Structures, mais réduit ceux sur les unités"
+"Rechercher l'Amï¿½lioration dans le Hall des Guerriers pour activer cette ï¿½quipement \n Une fois ï¿½quipï¿½, Augmente significativement les dï¿½gï¿½ts sur les Structures, mais rï¿½duit ceux sur les unitï¿½s"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
 //"+25% Faster Build Speed"
-"Ajoute une Tour défensive \n Vitesse de construction +25% "
+"Ajoute une Tour dï¿½fensive \n Vitesse de construction +25% "
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressFlamingMunitions
 //"Adds fire damage to all attached towers and trebuchets"
 //"Adds fire damage to all attached Towers, Trebuchets and nearby Lone Towers"
-"Ajoute des dégâts de feu à toutes les tours et trébuchets reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dï¿½gï¿½ts de feu ï¿½ toutes les tours et trï¿½buchets reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressFlamingMunitions
 //"Adds fire damage to all attached towers and catapults"
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Ajoute les Lames Forgés aux Tours Reliés et des dégâts de Feu aux Catapultes Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Lames Forgï¿½s aux Tours Reliï¿½s et des dï¿½gï¿½ts de Feu aux Catapultes Reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSummonedStructureFlamingMunitions  
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Ajoute les Lames Forgés aux Tours Reliés et des dégâts de Feu aux Catapultes Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Lames Forgï¿½s aux Tours Reliï¿½s et des dï¿½gï¿½ts de Feu aux Catapultes Reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 //"Adds Silverthorn Arrows to all attached Watchtowers"
-"Ajoute les Flèches d'Argent aux Tour Sentinelle Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Flï¿½ches d'Argent aux Tour Sentinelle Reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressIceMunitions
 //"Adds frost damage to all attached Towers and Stone Throwers"
-"Ajoute des dégâts de Gel aux Tours et Lance-Pierre Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dï¿½gï¿½ts de Gel aux Tours et Lance-Pierre Reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressOrcfireMunitions
 //"Arms defensive towers with Fire Arrows"
 //"Arms defensive Towers with Fire Arrows"
 //"Adds fire damage to all attached Towers and Ballistae"
-"Ajoute des dégâts de feu aux Balistes et Tours Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dï¿½gï¿½ts de feu aux Balistes et Tours Reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressFireArrows
 //"Equips your Arrow Dens with Fire Arrows"
 //"Adds fire damage to all attached Arrow Dens"
-"Ajoute des dégâts de feu aux Tours reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dï¿½gï¿½ts de feu aux Tours reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Tours Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressFireArrows
 //"Equips Barricades with Fire Arrows"
 //"Equips attached Barricades and nearby Summoned Barricades with Fire Arrows"
-"Ajoute des dégâts de feu aux Barricades reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Barricades Invoqués et la Forge"
+"Ajoute des dï¿½gï¿½ts de feu aux Barricades reliï¿½s \n Amï¿½lioration Active sur les Structures proches de Ressource, de Production, les Barricades Invoquï¿½s et la Forge"
 END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
@@ -52737,7 +52727,7 @@ CONTROLBAR:ToolTipGothmogDayoftheOrc
 //"Requires Level 6 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
 //"Requires Level 5 \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\nand earn experience 50% faster\nPassive ability"
 //"Modifier Type: Leadership \n Orcs near Gothmog gain \n +33% Damage, +33% Armor,\n and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
-"Pouvoir Passif : \n Les Orques autour de Gothmog ont +33% de Dégâts et d'armure et gagne l'expérience 50% plus rapidement \n Bonus Cumulable \n Capacité Passif"
+"Pouvoir Passif : \n Les Orques autour de Gothmog ont +33% de Dï¿½gï¿½ts et d'armure et gagne l'expï¿½rience 50% plus rapidement \n Bonus Cumulable \n Capacitï¿½ Passif"
 END
 
 CONTROLBAR:ToolTipBuildRohanPeasant
@@ -52768,7 +52758,7 @@ END
 CONTROLBAR:ToolTipIndustry
 //"Selected structure's resource output is permanently raised to 300% \n Left click icon then left click on target resource structure"
 //"Selected structure's resource output is temporarily raised to 300% \n Left click icon then left click on target resource structure"
-"Augmente temporairement la production de la structure ciblée de 200% \n LClique gauche puis clique gauche sur le batiment de production de ressource"
+"Augmente temporairement la production de la structure ciblï¿½e de 200% \n LClique gauche puis clique gauche sur le batiment de production de ressource"
 End
 
 CONTROLBAR:TooltipDwarvenRiches
