@@ -51986,12 +51986,12 @@ CONTROLBAR:TooltipKnightsofDolInspiration
 //"Requires Level 2 \n Gondor Knights and Rohirrim near the Knights of Dol Amroth gain\n+33% Damage, +33% Armor\nand earn experience twice as fast\nPassive ability"
 //"Requires Level 2 \n Nearby Gondor Knights and Rohirrim gain\n+33% Damage, +33% Armor\nand earn experience twice as fast\nPassive ability"
 //"Requires Level 2 \n Nearby Gondor Knights and Rohirrim gain\n+33% Damage, +33% Armor\nand earn experience 50% faster\nPassive ability"
-"Requires Level 2 \n Modifier Type: Leadership \n Nearby Gondor Knights and Rohirrim gain \n +33% Damage, +33% Armor \n and earn experience 50% faster \n Stacks with Buffs and Spells \n Passive ability"
+"Requiert Niveau 2 \n Capacité Passive \n Les Cavaliers du Gondor et Cavaliers de Dol Amroth proches gagnent \n +33% de Dégâts et d'Armure \n Et Gagne de l'Expérience 50% plus rapidement \n Bonus Cumulable \n Pouvoir Passif"
 END
 
 CONTROLBAR:ToolTipSummonedSpiderlingVenomSacks 
 //"Inflicts poison to enemies causing damage over time"
-"Inflicts poison to enemies causing damage over time \n Passive ability"
+"Inflige du Poison aux ennemis causant des dégâts supplémentaires \n Capacité Passive"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest
@@ -52928,7 +52928,7 @@ END
 TOOLTIP:LackDwarvenSiegeHammer
 //"Research upgrade at Forge Works to enable this equipment \n When equipped, significantly increases the damage done by Melee Weapons to Structures"
 //"Research upgrade at Forge Works to enable this equipment \n When equipped, enables splash damage and significantly increases the damage done to Structures, but reduces the damage done to units"
-"Research upgrade at Hall of Warriors to enable this equipment \n When equipped, enables splash damage and significantly increases the damage done to Structures, but reduces the damage done to units"
+"Rechercher l'Amélioration dans le Hall des Guerriers pour activer cette équipement \n Une fois équipé, Augmente significativement les dégâts sur les Structures, mais réduit ceux sur les unités"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
@@ -52946,42 +52946,42 @@ CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressFlamingMunitions
 //"Adds fire damage to all attached towers and catapults"
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Lames Forgés aux Tours Reliés et des dégâts de Feu aux Catapultes Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSummonedStructureFlamingMunitions  
 //"Adds forged blades to all attached towers and fire damage to all attached catapults"
 //"Adds Forged Blades to all attached Towers and nearby Lone Towers and fire damage to all attached catapults"
-"Adds Forged Blades to all attached Towers and Fire damage to all attached Catapults \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Lames Forgés aux Tours Reliés et des dégâts de Feu aux Catapultes Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressFlamingMunitions
 //"Adds Silverthorn Arrows to all attached Watchtowers"
-"Adds Silverthorn Arrows to all attached Watchtowers \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute les Flèches d'Argent aux Tour Sentinelle Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressIceMunitions
 //"Adds frost damage to all attached Towers and Stone Throwers"
-"Adds Frost damage to all attached Towers and Stone Throwers \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dégâts de Gel aux Tours et Lance-Pierre Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeIsengardFortressOrcfireMunitions
 //"Arms defensive towers with Fire Arrows"
 //"Arms defensive Towers with Fire Arrows"
 //"Adds fire damage to all attached Towers and Ballistae"
-"Adds Fire damage to all attached Towers and Ballistae \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dégâts de feu aux Balistes et Tours Reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressFireArrows
 //"Equips your Arrow Dens with Fire Arrows"
 //"Adds fire damage to all attached Arrow Dens"
-"Adds Fire damage to all attached Arrow Dens \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
+"Ajoute des dégâts de feu aux Tours reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Tours Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressFireArrows
 //"Equips Barricades with Fire Arrows"
 //"Equips attached Barricades and nearby Summoned Barricades with Fire Arrows"
-"Ajoute des dégâts de feu aux Barricades \n Amélioration Active sur les Structures proches de Ressource, de Production, les Barricades Invoqués et la Forge"
+"Ajoute des dégâts de feu aux Barricades reliés \n Amélioration Active sur les Structures proches de Ressource, de Production, les Barricades Invoqués et la Forge"
 END
 
 CONTROLBAR:ToolTipGothmogDayoftheOrc
