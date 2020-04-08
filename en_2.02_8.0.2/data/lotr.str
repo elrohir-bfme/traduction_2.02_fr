@@ -50600,7 +50600,7 @@ CONTROLBAR:SpecialAbilityOilBarrels
 //"Oil Barrels"
 //"O&il Barrels"
 //"Oil &Barrels"
-"Oil Ba&rrels"
+"Ba&rils d'Huiles"
 End
 
 CONTROLBAR:SummonedSpiderlingVenomSacks 
@@ -52254,7 +52254,7 @@ CONTROLBAR:MenLoneTowerFlamingMunitions
 End
 
 CONTROLBAR:DwarvenLoneTowerMasterworkMunitions
-"Masterwork Munitions"
+"Maître des Munitions"
 End
 
 CONTROLBAR:MordorSummonedBarricadeFlamingMunitions
@@ -52263,15 +52263,17 @@ End
 
 CONTROLBAR:ToolTipMenLoneTowerFlamingMunitions
 //"Adds fire damage to the Lone Tower if within Wall construction radius \n Requires the Flaming Munitions upgrade from the Fortress \n Passive upgrade"
-"Ajoute des dégâts de feu à la Tour Invoquée dans le rayon de construction du Mur \n Requiert l'Amélioration des Flèches Enflammées \n Amélioration Passive"
+"Ajoute des dégâts de feu à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration des Flèches Enflammées \n Amélioration Passive"
 End
 
 CONTROLBAR:ToolTipDwarvenLoneTowerMasterworkMunitions
-"Adds forged blades to the Lone Tower if within Wall construction radius \n Requires the Masterwork Munitions upgrade from the Fortress \n Passive upgrade"
+//"Adds forged blades to the Lone Tower if within Wall construction radius \n Requires the Masterwork Munitions upgrade from the Fortress \n Passive upgrade"
+"Ajoute les Lames Forgées à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration Maître des Munitions dans la Forteresse \n Capacité Passive"
 End
 
 CONTROLBAR:ToolTipMordorSummonedBarricadeOrcFireMunitions
-"Adds fire damage to the Summoned Barricade \n Requires the Flaming Munitions upgrade from the Fortress \n Passive upgrade"
+//"Adds fire damage to the Summoned Barricade \n Requires the Flaming Munitions upgrade from the Fortress \n Passive upgrade"
+"Ajoute des Dégâts de Feu aux Barricade Invoquées \n Requiert les Munitions Enflammées \n Capacité Passive"
 End
 
 CONTROLBAR:MenLoneTowerNumenorStonework
@@ -52283,7 +52285,8 @@ CONTROLBAR:DwarvenLoneTowerDwarvenStonework
 End
 
 CONTROLBAR:ToolTipMenLoneTowerNumenorStonework
-"Provides +67% Armor to the Lone Tower if within Wall construction radius \n Requires the Numenor Stonework upgrade from the Fortress \n Passive upgrade"
+//"Provides +67% Armor to the Lone Tower if within Wall construction radius \n Requires the Numenor Stonework upgrade from the Fortress \n Passive upgrade"
+"Confère +67% d'Armure à la Tour Invoquée dans le Rayon de Construction des Murs \n Requiert l'Amélioration Maçonnerie de Nûmenor de la Forteresse \n Amélioration Passive"
 End
 
 CONTROLBAR:ToolTipDwarvenLoneTowerDwarvenStonework
