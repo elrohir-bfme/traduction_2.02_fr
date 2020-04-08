@@ -49328,7 +49328,8 @@ END
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
 //"+25% Faster Build Speed \n Allows research of Mithril Mail, Siege Hammers, and Flaming Shot upgrades \n Adds Defensive Axe Tower"
 //"+25% Faster Build Speed \n Allows research of Mithril Mail and Flaming Shot upgrades \n Adds Defensive Axe Tower"
-"Allows research of Mithril Mail and Flaming Shot upgrades \n Increases the rate at which siege weapons are healed \n +25% Faster Build Speed \n Adds Defensive Axe Tower"
+//"Allows research of Mithril Mail and Flaming Shot upgrades \n Increases the rate at which siege weapons are healed \n +25% Faster Build Speed \n Adds Defensive Axe Tower"
+"Permet la recherche des améliorations cotte de mailles en mithril et Flèches enflammées \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25% \n Ajoute une tour de lanceurs de haches défensive"
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
