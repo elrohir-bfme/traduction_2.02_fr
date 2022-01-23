@@ -43506,7 +43506,7 @@ CONTROLBAR:AngmarRogashRevive
 END
 
 CONTROLBAR:AngmarKarshRecruit
-"Recruter le Spectre Murmurant d'Angmar"
+"Recruter le Spectre Murmurant d'Angmar \n\n La vie au-delà de la mort \n Requiert: niveau 5 \n Les alliés proches de Karsh deviennent immunisés contre la peur et la terreur"
 END
 
 CONTROLBAR:AngmarKarshRevive
@@ -47494,7 +47494,7 @@ TOOLTIP:LackDwarvenBasicTrainingForBattleWagon
 END
 
 CONTROLBAR:ToolTipWitchKingLeadership
-"Requiert : niveau 4\nLes alliés proches du Roi-Sorcier gagnent\n+33% de dégâts et d'armure\nde plus, l'expérience est gagné deux fois plus vite\nCapacité passive"
+"Requiert : niveau 4\nLes alliés proche du Roi-Sorcier gagnent\n+33% de dégâts et d'armure\nde plus, l'expérience est gagné deux fois plus vite\nCapacité passive"
 END
 
 GUI:LobbyRoom4
@@ -47871,7 +47871,7 @@ CONTROLBAR:ToolTipBackstab
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Requiert : niveau 2\nLurtz gagne +200% de dommages et +25% d'armure\nUtilisable uniquement lorsque l'épée est équipée\nClic gauche pour activer"
+"Requiert : niveau 2\nLurtz gagne +100% de dommages et +25% d'armure\nUtilisable uniquement lorsque l'épée est équipée\nClic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
@@ -49717,7 +49717,7 @@ CONTROLBAR:ToolTipTaint
 END
 
 CONTROLBAR:ToolTipWitchKingDreadWrath
-"Requiert : niveau 2 \n Type d'action : Affaiblissement et annulation passive \n Les unités ennemies proches infligent -33% de dégâts et perdent -25% d'armure \n Annule le charisme de l'ennemi \n Passe en priorité sur les autres affaiblissements \n Capacité passive"
+"Requiert : niveau 2 \n Type d'action : Affaiblissement et annulation passive \n Les unités ennemies proches infligent -33% de dégâts et perdent -33% d'armure \n Annule le charisme de l'ennemi \n Passe en priorité sur les autres affaiblissements \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipBlackRiderDreadVisage
@@ -49889,7 +49889,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeAngmarWellOfSouls
 END
 
 CONTROLBAR:ToolTipBuildNoldorWarriorHorde
-"Forts contre toutes les troupes standards \n Requiert : caserne elfe niveau 3 \n Deviennent furtifs près des arbres \n Seules 3 unités de guerriers Noldor sont autorisées à la fois"
+"Forts contre toutes les troupes standards \n Requiert : caserne elfe niveau 3 \n Seules 3 unités de guerriers Noldor sont autorisées à la fois"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
@@ -50141,7 +50141,7 @@ CONTROLBAR:ToolTipFrodoOneRing
 END
 
 CONTROLBAR:ToolTipIstariLight
-"Requiert niveau 7 \n Rayon de lumière blessant l'ennemi \n Etourdit temporairement les unités autour du rayon de lumière \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert niveau 6 \n Rayon de lumière blessant l'ennemi \n Etourdit temporairement les unités autour du rayon de lumière \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:SpecialAbilityOilBarrels
@@ -50442,7 +50442,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requires Level 7 \n Morgomir and nearby Dark Dunedain gain\n+33% Damage, +33% Armor \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +33% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +50% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
-"Requiert : niveau 7 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +50% de Dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
+"Requiert : niveau 6 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +50% de Dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
@@ -50451,7 +50451,7 @@ CONTROLBAR:ToolTipGothmogIronHand
 //"Requires Level 4 \n Orcs near Gothmog gain immunity to fear and terror \n Passive Ability"
 //"Requires Level 4 \n Orcs near Gothmog gain immunity to Fear and Terror \n Passive Ability"
 //"Requires Level 5 \n Allies near Gothmog gain immunity to Fear and Terror \n Passive Ability"
-"Requiert : niveau 5 \n Les alliés proches de Gothmog ne ressentent ni la peur, ni la terreur \n Capacité passive"
+"Requiert : niveau 5 \n Les alliés proche de Gothmog ne ressentent ni la peur, ni la terreur \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
@@ -50670,7 +50670,7 @@ End
 CONTROLBAR:ToolTipPoisonArrows
 //"Poison tipped arrows that cause damage over time \n Left click icon then left click on target"
 //"Poison tipped arrows that cause damage over time \n Can be fired from an extended range \n Left click icon then left click on target"
-"Flèches enduites de poison qui infligent des dégâts progressifs \n Peut être tiré depuis une portée étendue \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Flèches enduites de poison qui infligent des dégâts progressifs \n Efficace contre les trolls et les créatures volantes. \n Peut être tiré depuis une portée étendue \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 //// Map Strings ////
@@ -51579,7 +51579,7 @@ Map:MAPMPSakuraForest
 "Forêt Sakura"
 END
 Map:MAPMPSakuraForest/Desc
-"Cette forêt sacrée au nord de la mer de Rhûn est le site de nombreux temples construits pour cultiver et entretenir les rares arbres Sakura.\n\n Taille : 400 x 360\n Repaires : 4 repaires de ouargues, 2 repaires de troll\n Structures neutres : 2 auberges"
+"Cette forêt sacrée au nord de la mer de Rhûn est le site de nombreux temples construits pour cultiver et entretenir les rares arbres Sakura.\n\n Taille : 400 x 360\n Repaires : 4 repaires de ouargues\n Structures neutres : 2 auberges"
 End
 
 Map:MAPMPSouthDowns
@@ -52303,7 +52303,7 @@ CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
 //"Adds several Axe Throwers to the Battlewagon"
 //"Adds several Axe Throwers to the Battlewagon \n Strong vs. Archers, Pikemen and Structures"
 //"Adds several Axe Throwers to the Battlewagon \n Strong vs. Archers, Pikemen and Structures"
-"Ajoute plusieurs lanceurs de haches au chariot de guerre \n Efficace contre Archers, Piquiers et Structures \n Pts de Commandements Supplémentaire: 10"
+"Ajoute plusieurs lanceurs de haches au chariot de guerre \n Efficace contre Archers, Piquiers et Structures"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier
@@ -52438,7 +52438,7 @@ CONTROLBAR:ToolTipToggleTowerGuardLineToPorcupineFormation
 End
 
 CONTROLBAR:ToolTipSpiderRiderPoisonArrows
-"Flèches à pointe empoisonnée causant des dégâts au fil du temps \n Efficace contre la cavalerie \n Peuvent être utilisées uniquement lorsque l'arc est équipé \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Flèches à pointe empoisonnée causant des dégâts au fil du temps \n Efficace contre la cavalerie, les trolls et les unités volantes. \n Peuvent être utilisées uniquement lorsque l'arc est équipé \n Clic gauche sur l'icône puis clic gauche sur la cible"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
@@ -52453,7 +52453,7 @@ CONTROLBAR:ToolTipBattleWagonUpgradeMenOfDale
 //"Adds several Men of Dale to the Battlewagon"
 //"Adds several Men of Dale to the Battlewagon \n Strong vs. Infantry, Cavalry and Monsters"
 //"Adds several Men of Dale to the Battlewagon \n Strong vs. Infantry, Cavalry and Monsters \n Additional command points: 20"
-"Ajoute plusieurs Hommes de Dale au chariot de guerre \n Efficace contre Infanterie, Cavalerie et Monstres \n Pts de Commandements Supplémentaire: 20"
+"Ajoute plusieurs Hommes de Dale au chariot de guerre \n Efficace contre Infanterie, Cavalerie et Monstres"
 End
 
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
@@ -52556,12 +52556,25 @@ End
 CONTROLBar:ToolTipRogashDominateTroll
 //"Take control of target enemy troll \n Left click icon then left click on target troll"
 //"Requires Level 2 \n Take control of target enemy troll \n Left click icon then left click on target troll"
-"Requiert : niveau 2 \n Permet de contrôler des trolls et semi-trolls ennemis ciblés \n Clique gauche sur l'icône puis clique gauche pour cibler un troll"
+"Requiert : niveau 2 \n Permet de contrôler des trolls ennemis ciblés \n Clique gauche sur l'icône puis clique gauche pour cibler un troll"
 End
 
+// ======================== VERSION 8.5.0 =============== ;,;
+
 CONTROLBAR:ToolTipGlorfindelBladeOfPurity
-"Requiert : niveau 3 \n Glorfindel gagne +100% dégâts et +50% armure \n Clic gauche pour activer"
+"Requiert : niveau 3 \n Glorfindel gagne +100% dégâts et +50% armure \n Ne peut être utilisé qu'à pied \n Clic gauche pour activer"
 END
+
+CONTROLBAR:ToolTipMordorWitchKingDreadWrath
+// "Requires Level 2 \n Major reduction of enemy Armor and Damage \n Passive ability"
+// "Requires Level 2\nReduces enemy armor and damage\nPassive ability"
+// "Requires Level 2\nHugely reduces enemy armor and damage\nPassive ability"
+// "Requires Level 2\nHugely reduces enemy armor and damage\nNullifies enemy Leadership\nPassive ability"
+// "Requires Level 2\nGreatly reduces enemy armor and damage\nNullifies enemy Leadership\nPassive ability"
+// "Requires Level 2 \n Modifier Type: Passive Nullifier Debuff \n Nearby enemy units suffer -33% Damage and -25% Armor \nNullifies enemy Leadership \n Takes precedence over other Debuffs \n Passive ability"
+"Requiert : niveau 2 \n Type de modificateur : Nullifier Debuff passif \n Les unités ennemies proches subissent -33% de dégâts et -33% d'armure \n Annule le charisme de l'ennemi \n Passe avant les autres Debuffs\nPeut être utilisé uniquement à pied\n Capacité passive"
+END
+
 
 //========================= VERSION STRINGS ==========	;;,;;
 
@@ -52585,7 +52598,7 @@ END
 Version:BuildTime
 // context: DO NOT TRANSLATE
 //"%ls %ls"
-"2020-09-25 13:45:43"
+"2022-01-23 23:36:00"
 END
 
 Version:BuildUser
@@ -52598,19 +52611,19 @@ END
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
 // "Version %d.%02d"
-"2.02 Version 8.4.0"
+"2.02 Version 8.5.0"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
 //"Version %d.%02d.%d"
-"2.02 8400"
+"2.02 8500"
 END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
 //"%d.%02d.%d Build %d %c%c"
-"8400"
+"8500"
 END
 
 //========================= TRANSLATORS ==========	;;,;;
@@ -52627,3 +52640,8 @@ END
 //Add your name after old translator name !
 //FRENCH TRANSLATORS : Elrohir
 //Date last modified : 25-09-2020 13:45:43
+
+//========================= TRANSLATORS V8-8.5.0 ==========	;;,;;
+//Add your name after old translator name !
+//FRENCH TRANSLATORS : Elrohir
+//Date last modified : 23-01-2020 23:37:00
