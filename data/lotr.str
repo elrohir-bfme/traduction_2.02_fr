@@ -14150,11 +14150,11 @@ CONTROLBAR:ToolTipBuildWitchKing
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRecruit
-"Recruter le chef des Nazgûl"
+"Recruter le chef des Nazgûl \n gagne de l'armure à chaque niveau"
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRevive
-"Rappeler le Roi-Sorcier à la vie"
+"Rappeler le Roi-Sorcier à la vie \n gagne de l'armure à chaque niveau"
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastHotkey
@@ -14758,11 +14758,19 @@ CONTROLBAR:ToolTipWarSpeech
 END
 
 CONTROLBAR:LastStand
-"Energie désespoir"
+"Dernier Combat"
 END
 
+CONTROLBAR:VolleyCorsairBomb
+"Bombes incendiaires"
+End
+
+CONTROLBAR:ToolTipVolleyCorsairBomb
+"Explosifs lancés à courte portée qui déclenchent un incendie \n Efficace contre les structures et les unités groupées \n Clic gauche sur l'icône puis clic gauche sur la zone cible""
+End
+
 CONTROLBAR:ToolTipLastStand
-"Continue le combat lorsque barre santé vide"
+""Lorsqu'il a peu de points de vie, Boromir gagne +33% d'armure et +33% de dégâts \n capacité passive"
 END
 
 CONTROLBAR:GenericMountTooltip
@@ -15046,7 +15054,8 @@ CONTROLBAR:HornofGondor
 END
 
 CONTROLBAR:ToolTipHornofGondor
-"Requiert : niveau 2 \n Terrorise les ennemis \n Clic gauche pour activer"
+//"Requiert : niveau 2 \n Terrorise les ennemis \n Clic gauche pour activer"
+"Requiert : niveau 2 \n Type de modificateur : Active Debuff \n Les unités ennemies situées dans un large rayon subissent -25% de dégâts et -25% d'armure \n Annule le charisme ennemi \n Ne s'empile pas avec d'autres Debuffs \n Clic gauche pour activer"
 END
 
 CONTROLBAR:WoundingArrow
@@ -16338,11 +16347,11 @@ GUI:UnitBuildTime
 END
 
 GUI:Slaughter_Discount
-"désaffectation \n Bonus +%d%%"
+"Désaffectation \n Bonus +%d%%"
 END
 
 GUI:Corsair_Discount
-"Réduction corsaire -%d%%"
+"Corsair et unité \n Réduction de -%d%%"
 END
 
 APT:YourArmy
@@ -26790,7 +26799,7 @@ CONTROLBAR:ConstructMordorTavern
 END
 
 CONTROLBAR:ToolTipMordorTavern
-"Entraîne les Corsaires d'Umbar\nPermet la recherche des améliorations d'unités du Mordor"
+"Entraîne les Corsaires d'Umbar \n Permet la recherche d'améliorations d'unités de Mordor \n\n 2 Tavernes = Corsaires et améliorations d'unités 10% moins chers \n 3 Tavernes = Corsaires et améliorations d'unités 15% moins chers"
 END
 
 CONTROLBAR:ConstructMordorLumberMill
@@ -27590,7 +27599,7 @@ CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel3
 END
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel2
-"Permet la recherche de l'amélioration lames forgées \n Vitesse de construction + 10%"
+"Permet la recherche de l'amélioration flèches enflammées \n Vitesse de construction + 10%"
 END
 
 CONTROLBAR:TrainAllies
@@ -36102,7 +36111,7 @@ TOOLTIP:LackIsengardHeavyArmor
 END
 
 TOOLTIP:LackMordorFireArrow
-"Recherchez l'amélioration au Palais Haradrim pour activer cet équipement \n Lorsqu'elle est équipée, elle augmente de manière significative les dégâts infligés par les flèches"
+"Recherchez l'amélioration à la taverne pour activer cet équipement \n Lorsqu'elle est équipée, elle augmente de manière significative les dégâts infligés par les flèches"
 END
 
 TOOLTIP:LackMordorBasicTraining
@@ -36162,7 +36171,7 @@ TOOLTIP:LackElderRacesBasicTraining
 END
 
 ToolTip:LackMordorHeavyArmor
-"Recherchez l'amélioration Atelier de siège pour utiliser cet équipement \n Lorsqu'elle est équipée, elle réduit de manière significative les dégâts reçus"
+"Recherchez l'amélioration la taverne pour utiliser cet équipement \n Lorsqu'elle est équipée, elle réduit de manière significative les dégâts reçus"
 END
 
 ToolTip:LackIsengardTorches
@@ -36170,7 +36179,7 @@ ToolTip:LackIsengardTorches
 END
 
 ToolTip:LackMordorForgedBlades
-"Recherchez l'amélioration Atelier de siège pour utiliser cet équipement \n Lorsqu'elle est équipée, elle augmente les dégâts infligés par les armes de mêlée"
+"Recherchez l'amélioration dans la taverne pour utiliser cet équipement \n Lorsqu'elle est équipée, elle augmente les dégâts infligés par les armes de mêlée"
 END
 
 ToolTip:LackDwarvenFlamingShot
@@ -43506,7 +43515,7 @@ CONTROLBAR:AngmarRogashRevive
 END
 
 CONTROLBAR:AngmarKarshRecruit
-"Recruter le Spectre Murmurant d'Angmar \n\n La vie au-delà de la mort \n Requiert: niveau 5 \n Les alliés proches de Karsh deviennent immunisés contre la peur et la terreur"
+"Recruter le Spectre Murmurant d'Angmar"
 END
 
 CONTROLBAR:AngmarKarshRevive
@@ -44122,11 +44131,11 @@ CONTROLBAR:LW_ToolTip_Khamul
 END
 
 CONTROLBAR:MordorKhamulRecruit
-"Recruter l'Ombre de l'est"
+"Recruter l'Ombre de l'est \n Gagne en armure à chaque niveau"
 END
 
 CONTROLBAR:MordorKhamulRevive
-"Rappeler Khamûl à la vie"
+"Rappeler Khamûl à la vie \n Gagne en armure à chaque niveau"
 END
 
 CONTROLBAR:MordorKhamulHotkey
@@ -44154,11 +44163,11 @@ CONTROLBAR:LW_ToolTip_Morgomir
 END
 
 CONTROLBAR:MordorMorgomirRecruit
-"Recruter Morgomir"
+"Recruter Morgomir \n \n Gagne une armure accrue à chaque niveau"
 END
 
 CONTROLBAR:MordorMorgomirRevive
-"Rappeler Morgomir à la vie"
+"Ranime Morgomir \n \n Gagne une armure accrue à chaque niveau"
 END
 
 CONTROLBAR:MordorMorgomirHotkey
@@ -47578,7 +47587,7 @@ CONTROLBAR:ToolTipToggleGFighterBlockToLineFormation
 END
 
 CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
-"+33% d'armure\n-20% de dommage\n-40% de vitesse"
+"+25% d'armure\n-10% de dommage\n-40% de vitesse"
 END
 
 OBJECT:HordeGondorRanger
@@ -47636,7 +47645,7 @@ CONTROLBAR:ToolTipConstructMenStable
 END
 
 CONTROLBAR:ToolTipConstructMenDormitory
-"Structure défensive Soignante\nEn garnison, les unités acquiert +20% d'expérience\n Augmente la valeur de désaffectation des unités\nAugmente la limite des points de commandements de 25"
+"Structure défensive Soignante\n Augmente la valeur de déclassement des unités  \n En garnison, les unités acquiert +20% d'expérience\n Augmente la valeur de désaffectation des unités\nAugmente la limite des points de commandements de 25"
 END
 
 // Men Heroes
@@ -47812,7 +47821,7 @@ OBJECT:DwarvenSentryTowerDescription
 END
 
 CONTROLBAR:ToolTipConstructDwarvenHallExpansion
-"Structure défensive pouvant accueillir une garnison \n Augmente la valeur de désaffectation des unités \n Soigne les unités en garnison \n Permet aux unités d'acquérir une expérience de +20%"
+"Structure défensive pouvant accueillir une garnison \n Augmente la valeur de déclassement des unités  \n Augmente la valeur de désaffectation des unités \n Soigne les unités en garnison \n Permet aux unités d'acquérir une expérience de +20%"
 END
 
 // Dwarves Heroes
@@ -47831,7 +47840,7 @@ END
 // Isengard Units
 
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
-"+33% d'armure\n-20% de dommage\n-40% de vitesse"
+"+25% d'armure\n-10% de dommage\n-40% de vitesse"
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLineFormation
@@ -47875,7 +47884,7 @@ CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
-"Requiert : niveau 4\nImmobilise le héro ennemi\nUtilisable uniquement lorsque l'arc est équipé\nCliquez sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 4\nImmobilise le héro ennemi\n Augmente les dégâts infligés aux monstres\n Utilisable uniquement lorsque l'arc est équipé\nCliquez sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipLurtzPillage
@@ -48927,7 +48936,7 @@ CONTROLBAR:ToolTipBloodthirsty
 END
 
 CONTROLBAR:ToolTipIsengardBloodthirsty
-"Requiert : niveau 4\nSoif de sang des Ourouks\n+25% de Dégâts\nCapacité passive"
+"Requiert : niveau 2\nSoif de sang des Ourouks\n+25% de Dégâts\nCapacité passive"
 END
 
 
@@ -49617,27 +49626,27 @@ CONTROLBAR:TooltipBlight
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMenFortressBanners
-"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
+"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenFortressBanners
-"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
+"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressDoomPyres
-"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
+"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressBanners
-"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
+"Type d'action : Charisme \n Les alliés près la Forteresse gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement. \n S'accumule avec les renforcements et les sorts \n Réduit le coût des Héros de 10% \n Réduit le temps de recrutement des Héros de 10% \n Réduit le coût des bâtisseurs de 20%"
 END
 
 CONTROLBAR:ToolTipEomerLeadership
-"Type d'action : Charisme \n Les cavaliers alliés près d'Eomer gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Type d'action : Charisme \n Les cavaliers alliés près d'Eomer gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipTheodenLeadership
-"Type d'action : Charisme \n Les cavaliers alliés près de Théoden gagnent +33% de dégâts et +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Type d'action : Charisme \n Les cavaliers alliés près de Théoden gagnent +25% de dégâts et +25% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipGloriousCharge
@@ -49668,12 +49677,20 @@ CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
 "Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements"
 END
 
+CONTROLBAR:TooltipCAH_SummonFamiliar_Level3_Palantir
+Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
+End
+
+CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
+Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
+End
+
 CONTROLBAR:TooltipEnshroudingMist
 "Les unités amies dans la brume deviennent furtives \n \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipElvenWood
-"Crée une forêt verdoyante \n Type d'action : Renforcement \n Toutes les unités gagnent +50% de dégâts, +50% d'armure, et deviennent immunisées à la peur et la terreur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Crée une forêt verdoyante \n Type d'action : Renforcement \n Toutes les unités gagnent +33% de dégâts, +33% d'armure, et deviennent immunisées à la peur et la terreur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipGlorfindelStarlight
@@ -49693,15 +49710,15 @@ CONTROLBAR:ToolTipDainLeadership
 END
 
 CONTROLBAR:ToolTipMightyRage
-"Requiert : niveau 5 \n Type d'action : Sort et Affaiblissement actif \n Les unités alliées gagnent +33% de dégâts et +33% d'armure \n Les unités ennemies ciblées infligent -25% de dégâts et perdent -20% d'armure \n Annule le charisme des unités adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 5 \n Type d'action : Sort et Affaiblissement actif \n Les unités alliées gagnent +25% de dégâts et +25% d'armure \n Les unités ennemies ciblées infligent -25% de dégâts et perdent -25% d'armure \n Annule le charisme des unités adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDwarvenGuardianChargeAttack
-"Requiert : niveau 2 \n Ordonne aux gardiens de charger l'ennemi \n Type d'action : Renforcement \n Les gardiens gagnent +50% de dégâts et +50% d'armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Ordonne aux gardiens de charger l'ennemi \n Type d'action : Renforcement \n Les gardiens gagnent +33% de dégâts et +33% d'armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipRallyingCall
-"Type d'action : Renforcement \n Les alliés ciblés gagnent +50% de dégâts et +50% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur les unités souhaitées"
+"Type d'action : Renforcement \n Les alliés ciblés gagnent +33% de dégâts et +33% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur les unités souhaitées"
 END
 
 CONTROLBAR:ToolTipGoblinKingBattleFrenzy
@@ -49709,11 +49726,11 @@ CONTROLBAR:ToolTipGoblinKingBattleFrenzy
 END
 
 CONTROLBAR:TooltipCaveBats
-"Révèle la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les unités ennemies proches infligent -25% de dégâts et perdent -20% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Révèle la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipTaint
-"Souille une zone \n Type d'action : Renforcement \n Toutes les unités alliés gagnent +50% de dégâts et +50% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Souille une zone \n Type d'action : Renforcement \n Toutes les unités alliés gagnent +33% de dégâts et +33% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipWitchKingDreadWrath
@@ -49737,7 +49754,7 @@ CONTROLBAR:ToolTipConstructMordorGateWatchersExpansion
 END
 
 CONTROLBAR:ToolTipWarChant
-"Type d'action : Renforcement \n Les alliés ciblés gagnent +50% de dégâts et +50% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur les unités souhaitées"
+"Type d'action : Renforcement \n Les alliés ciblés gagnent +33% de dégâts et +33% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur les unités souhaitées"
 END
 
 CONTROLBAR:ToolTipEyeofSauron
@@ -49745,7 +49762,7 @@ CONTROLBAR:ToolTipEyeofSauron
 END
 
 CONTROLBAR:ToolTipDarkness
-"Couvre temporairement toute la carte dans l'obscurité \n Type d'action : Sort \n Les unités alliées gagnent +33% de dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche pour activer"
+"Couvre temporairement toute la carte dans l'obscurité \n Type d'action : Sort \n Les unités alliées gagnent +25% de dégâts et +25% d'armure \n Toutes les unités ennemies subissent -25% de vision de reconnaissance \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGBloodHunt
@@ -49761,15 +49778,11 @@ CONTROLBAR:ToolTipVenomousWords
 END
 
 CONTROLBAR:TooltipWargRiderHowl
-"Type d'action : Renforcement \n Les ouargues gagnent +50% de dégâts et +50% d'armure \n S'accumule avec le charisme et les sorts \n Clic gauche pour activer"
-END
-
-CONTROLBAR:TooltipCrebain
-"Révèle une partie de la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les unités ennemies proches infligent -25% de dégâts et perdent -20% d'armure \n Annule les bonus des ennemis ciblés \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Type d'action : Renforcement \n Les ouargues gagnent +25% de dégâts \n S'accumule avec le charisme et les sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipTaintIsengard  
-"Souille une zone \n Type d'action : Renforcement \n Toutes les unités alliées gagnent +50% de dégâts et +50% d'armure, et gagnent des ressources pour chaque victime \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Souille une zone \n Type d'action : Renforcement \n Toutes les unités alliées gagnent +33% de dégâts et +33% d'armure, et gagnent des ressources pour chaque victime \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipFreezingRain
@@ -49789,15 +49802,15 @@ CONTROLBAR:ToolTipMorgomirDreadVisage
 END
 
 CONTROLBAR:TooltipNecromancerDeathMask
-"Requiert : niveau 4 \n Type d'action : Affaiblissement passif \n Les unités ennemies proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements \n Capacité passive"
+"Requiert : niveau 3 \n Type d'action : Affaiblissement passif \n Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure \n Ne s'accumule pas avec d'autres affaiblissements \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityAngmarTrollChargeAttack
-"Requiert : niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +50% dégâts et +50% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +33% dégâts et +33% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:TooltipFrozenLand
-"Gèle une zone \n Type d'action : Charisme et Sort \n Les unités alliées gagnent +33% de dégâts, +33% d'armure et obtiennent 50% d'expérience en plus \n S'accumule avec les renforcements et les sorts \n Les unités ennemies subIsent -33% de vitesse \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
+"Gèle une zone \n Type d'action : Charisme et Sort \n Les unités alliées gagnent +25% de dégâts, +25% d'armure et obtiennent 50% d'expérience en plus \n S'accumule avec les renforcements et les sorts \n Les unités ennemies subIsent -33% de vitesse \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressHouseOfLamentation
@@ -49805,19 +49818,19 @@ CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressHouseOfLamentation
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership
-"Type d'action : Charisme \n Les alliés à proximité du Héros gagnent +33% de dégâts, +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Type d'action : Charisme \n Les alliés à proximité du Héros gagnent +25% de dégâts, +25% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCreateAHeroLeadership_Palantir
-"Type d'action : Charisme \n Les alliés à proximité du Héros gagnent +33% de dégâts, +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Type d'action : Charisme \n Les alliés à proximité du Héros gagnent +25% de dégâts, +25% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipCAH_Starlight
-"Type d'action : Sort \n Soigne les alliés à proximité et leur donne +33% de dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les autres sorts \n Etourdit les unités ennemies"
+"Type d'action : Sort \n Soigne les alliés à proximité et leur donne +25% de dégâts et +25% d'armure \n S'accumule avec les renforcements, le charisme et les autres sorts \n Etourdit les unités ennemies"
 End
 
 CONTROLBAR:ToolTipCAH_Starlight_Palantir
-"Type d'action : Sort \n Soigne les alliés à proximité et leur donne +33% de dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les autres sorts \n Etourdit les unités ennemies \n Clic gauche pour activer"
+"Type d'action : Sort \n Soigne les alliés à proximité et leur donne +25% de dégâts et +25% d'armure \n S'accumule avec les renforcements, le charisme et les autres sorts \n Etourdit les unités ennemies \n Clic gauche pour activer"
 End
 
 CONTROLBAR:TooltipFlood
@@ -49825,27 +49838,27 @@ CONTROLBAR:TooltipFlood
 END
 
 CONTROLBAR:ToolTipBuildGoblinFighterHorde
-"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers goblins gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers goblins gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
-"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHordeShelobsLair
-"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHorde
-"Requiert : Puits à Orques niveau 2 \n Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Requiert : Puits à Orques niveau 2 \n Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers orques, archers orques et orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackOrcHordeInn
-"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Tous les orques noirs gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
-"Invoque des orques de Gundabad pour vous servir \n Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Les orques de Gundabad gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Invoque des orques de Gundabad pour vous servir \n Forts contre les piquiers \n\n Bonus de Horde \n Type d'action : Sort \n Les orques de Gundabad gagnent +25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 End
 
 CONTROLBAR:ToolTipCAH_DwarfCharge_L1
@@ -49933,7 +49946,7 @@ CONTROLBAR:ToolTipBuildDwarvenPhalanxHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
-"Forts contre la cavalerie \n Deviennent furtifs près des arbres\n Capables de changer de formation pour améliorer leurs capacités défensives"
+"Forts contre la cavalerie \n Capables de changer de formation pour améliorer leurs capacités défensives"
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
@@ -50213,7 +50226,7 @@ CONTROLBAR:PurchaseTechnologyAngmarCorpseRain
 END
 
 CONTROLBAR:ToolTipDisguise
-"Requiert : niveau 3 \n Se déguise comme un Rohirrim \n Eowyn devient furtive près des Rohirrim \n Clic gauche pour activer"
+"Requiert : niveau 3 \n Se déguise comme un Rohirrim \n Eowyn devient furtive près des Rohirrim \n Se dévoile et inflige +200% de dégâts à une seule cible au premier coup de lance \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHillTrollHorde
@@ -50246,14 +50259,14 @@ CONTROLBAR:ToolTipToggleStanceAggressive
 //"Shortcut: D \n Units gain an increase to their attack damage, but a decrease to their armor \n They will auto-acquire enemies when sighted"
 //"Shortcut: D \n Swordsmen: +25% Damage, -15% Armor \n Archers: +20% Damage, -20% Armor \n Pikemen: +25% Damage, -15% Armor \n Cavalry: +25% Damage, -15% Armor \n Siege: +15% Range, -20% Armor \n Heroes: +10% Damage, +10% Speed, -20% Armor \n Monsters: +10% Damage, -15% Armor \n\n Units will auto-acquire enemies when sighted"
 //"Shortcut: D \n Swordsmen: +25% Damage, -15% Armor \n Archers: +20% Damage, -15% Armor \n Pikemen: +25% Damage, -15% Armor \n Cavalry: +25% Damage, -15% Armor \n Siege: +15% Range, -20% Armor \n Heroes: +10% Damage, -15% Armor \n Monsters: +10% Damage, -15% Armor \n\n Units will auto-acquire enemies when sighted"
-"Raccourci : D \n Epéistes : +25% de dégâts, -15% d'armure \n Archers : +20% de dégâts, -15% d'armure \n Piquiers : +25% de dégâts, -15% d'armure \n Cavalerie : +25% de dégâts, -15% d'armure \n Armes de siège : +15% de portée, -20% d'armure \n Héros : +10% de dégâts, -15% d'armure \n Monstres : +10% de dégâts, -15% d'armure \n\n L'ennemi est ciblé automatiquement dès qu'il est en vue"
+"Raccourci : D \n Epéistes : +25% de dégâts, -15% d'armure \n Archers : +20% de dégâts, -15% d'armure \n Piquiers : +25% de dégâts, -15% d'armure \n Cavalerie : +25% de dégâts, -15% d'armure \n Armes de siège : +15% de portée, -20% d'armure \n Héros : +10% de dégâts, -15% d'armure \n Monstres : +10% de dégâts, -15% d'armure \n Bateau: -20% d'armure, +15% de distance, +20% de vision \n\n L'ennemi est ciblé automatiquement dès qu'il est en vue"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGround
 //"Shortcut: G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
 //"Shortcut: G \n Swordsmen: +25% Armor, -15% Damage \n Archers: +20% Armor, -10% Damage \n Pikemen: +25% Armor, -15% Damage \n Cavalry: +25% Armor, -15% Damage, -15% Speed \n Siege: +10% Armor, -15% Range \n Heroes: +10% Armor, -20% Damage, -10% Speed \n Monsters: +10% Armor, -20% Damage \n\n Units will not auto-acquire enemies"
 //"Shortcut: G \n Swordsmen: +33% Armor, -15% Damage \n Archers: +20% Armor, -10% Damage \n Pikemen: +25% Armor, -15% Damage \n Cavalry: +33% Armor, -15% Damage, -15% Speed \n Siege: +10% Armor, -15% Range \n Heroes: +10% Armor, -20% Damage, -10% Speed \n Monsters: +10% Armor, -20% Damage \n\n Units will not auto-acquire enemies"
-"Raccourci : G \n Epéistes : +33% d'armure, -15% de dégâts \n Archers : +20% d'armure, -10% de dégâts \n Piquiers : +25% d'armure, -15% de dégâts \n Cavalerie : +33% d'armure, -15% de dégâts, -15% de vitesse \n Armes de siège : +10% d'armure, -15% de portée \n Héros : +10% d'armure, -20% de dégâts, -10% de vitesse \n Monstres : +10% d'armure, -20% de dégâts \n\n Les ennemis ne sont pas ciblés automatiquement"
+"Raccourci : G \n Epéistes : +33% d'armure, -15% de dégâts \n Archers : +20% d'armure, -10% de dégâts \n Piquiers : +25% d'armure, -15% de dégâts \n Cavalerie : +33% d'armure, -15% de dégâts, -15% de vitesse \n Armes de siège : +10% d'armure, -15% de portée \n Héros : +10% d'armure, -20% de dégâts, -10% de vitesse \n Monstres : +10% d'armure, -20% de dégâts \n Bateau: +10% d'armure, -10% de distance, -5% de vision \n\n Les ennemis ne sont pas ciblés automatiquement"
 END
 
 /////////////////////
@@ -50306,14 +50319,6 @@ End
 
 CONTROLBAR:BattleWagonUpgradeMenOfDale
 "Améliorer avec des Hommes de Da&le"
-End
-
-CONTROLBAR:TooltipNecroFellStrength
-//"Drains Enemy units of Strength \n +25% Damage, +25% attack speed bonus to friendly non-siege units \n Left click icon then left click on target area"
-//"Drains enemy units of strength \n Nearby friendly units gain\n+50% damage, +50% armor\n Left click icon then left click on target area"
-//"Drains enemy units of strength\nTargeted enemy units take slight damage\nNearby friendly units gain\n+33% Damage, +33% Armor\n Left click icon then left click on target area"
-//"Drains enemy units of strength \n Modifier Type: Spell and Active Debuff \n Targeted enemy units take slight damage and briefly suffer -25% Damage and -20% Armor \n Nearby friendly units gain\n+33% Damage and +33% Armor \n Nullifies enemy Leadership \n Stacks with Buffs, Leadership and other Spells \n Does not stack with other Debuffs \n Left click icon then left click on target area"
-"Absorbe la force des unités adverses \n Type d'action : Sort et affaiblissement actif \n Les unités ennemies ciblées subissent de légers Dégâts et perdent temporairement -25% de Dégâts et -20% Armure \n Les unités alliées gagnent +33% de Dégâts et +33% d'armure\n Annule les Passifs adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
 End
 
 CONTROLBAR:TooltipNecroBlackIce
@@ -50418,7 +50423,7 @@ CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
 //"+10% resources from farms \n Player must maintain a Marketplace to benefit from this upgrade"
 //"+15% resources from farms \n Player must maintain a Marketplace to benefit from this upgrade"
 //"Increases resource output from Farms by 15%"
-"+15% de production des fermes"
+"+12% de production des fermes"
 END
 
 OBJECT:SignalFireDescription
@@ -50442,7 +50447,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requires Level 7 \n Morgomir and nearby Dark Dunedain gain\n+33% Damage, +33% Armor \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +33% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +50% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
-"Requiert : niveau 6 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +50% de Dégâts et +33% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
+"Requiert : niveau 5 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +25% de Dégâts et +25% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
@@ -50497,7 +50502,7 @@ CONTROLBAR:ToolTipMorgomirMorgulBlade
 //"Requires Level 5 \n Targeted enemy takes poison damage over \n time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 5 \n Targeted enemy takes poison damage over time and becomes a wight upon death \n Left click icon then left click on target"
 //"Requires Level 5 \n Targeted enemy takes poison damage over time, and becomes a wight upon death \n Temporarily cripples non-Monster unit \n Monster suffers -33% Speed \n Left click icon then left click on target"
-"Requiert: niveau 5 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert: niveau 4 \n Les ennemis ciblés subissent des dégâts de poison au fil du temps et se transforment en spectre après la mort \n Immobilise Temporairement l'unité non-monstre  \n Les Monstres souffrent de -33% de Vitesse \nClic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipMordorWitchkingMorgulCorruption
@@ -50528,13 +50533,13 @@ END
 CONTROLBAR:ToolTipMordorHaradrimPalace
 //"Trains Haradrim and Easterlings"
 //"Trains Easterlings, Corsairs, and Haradrim"
-"Entraîne Haradrim, Corsaires et Orientaux"
+"Entraîne Haradrim et Orientaux"
 END
 
 CONTROLBAR:DescriptionToolTipMordorHaradrimPalace
 //"Trains Haradrim and Easterlings"
 //"Trains Easterlings, Corsairs, and Haradrim"
-"Entraîne Haradrim, Corsaires et Orientaux"
+"Entraîne Haradrim et Orientaux"
 END
 
 CONTROLBAR:ShelobWebbing
@@ -51039,13 +51044,11 @@ CONTROLBAR:TooltipUpgradeIsengardTavernLevel3
 END
 
 CONTROLBAR:ToolTipIndustry
-//"Selected structure's resource output is permanently raised to 300% \n Left click icon then left click on target resource structure"
-//"Selected structure's resource output is temporarily raised to 300% \n Left click icon then left click on target resource structure"
-"Augmente temporairement la production de la structure ciblée de 200% \n LClique gauche puis clique gauche sur le batiment de production de ressource"
+"Augmente temporairement la production de la structure ciblée de 175% \n LClique gauche puis clique gauche sur le batiment de production de ressource"
 End
 
 CONTROLBAR:TooltipDwarvenRiches
-"Sélectionner un batiment de production de ressources pour augmenter temporairement la production de +200% \n Clique gauche puis clique droit sur le batiment de production de ressource"
+"Sélectionner un batiment de production de ressources pour augmenter temporairement la production de +175% \n Clique gauche puis clique droit sur le batiment de production de ressource"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
@@ -51077,11 +51080,11 @@ CONTROLBAR:ToolTipBuildEregionForgeLevel2
 END
 
 TOOLTIP:LackLevel3TavernFireArrows
-"Requiert: palais Haradrim niveau 3"
+"Requiert: taverne niveau 2"
 END
 
 TOOLTIP:LackLevel3TavernForgedBlades
-"Requiert: taverne niveau 2"
+"Requiert: taverne niveau 3"
 END
 
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel2Upgrade
@@ -52134,7 +52137,7 @@ CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain +50% Damage and +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain \n+50% Damage, +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Type: Buff \n Black Numenoreans gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
-"Requiert: niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +50% Dégâts et +50% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
+"Requiert: niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +33% Dégâts et +33% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
 CONTROLBAR:ToolTipGoblinKingMount
@@ -52164,7 +52167,7 @@ CONTROLBAR:TooltipGoblinKingSkullTotem
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Nearby allies gain\n+50% damage, +50% armor\n Left click icon then left click on target area"
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Modifier Type: Buff \n Nearby allies gain +50% damage and +50% armor \n Stacks with Leadership and Spells \n Left click icon then left click on target area"
 //"Requires Level 2 \n Places a skull totem which will remain on the map until destroyed \n Modifier Type: Buff \n Nearby allies gain +50% damage, +50% armor and become immune to fear and terror \n Stacks with Leadership and Spells \n Left click icon then left click on target area"
-"Requiert : niveau 2 \n Place un totem de crâne qui restera sur la carte jusqu'à sa destruction \n Type d'action : Renforcement \n Les alliés à proximité gagnent +50% de Dégâts et +50% d'armure et sont insensibles à la peur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Requiert : niveau 2 \n Place un totem de crâne qui restera sur la carte jusqu'à sa destruction \n Type d'action : Renforcement \n Les alliés à proximité gagnent +33% de Dégâts et +33% d'armure et sont insensibles à la peur \n S'accumule avec le charisme et les sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipBattleWagonUpgradeHearth
@@ -52212,7 +52215,7 @@ CONTROLBAR:ToolTipConstructWildBurrowsExpansion
 //"Connects this Fortress to the tunnel network"
 //"Connects this Fortress to the tunnel network\nIncreases command point limit"
 //"Connects this Fortress to the tunnel network \n Increases command point limit by 75"
-"Connecte cette forteresse au réseau des tunnels\n Augmente les pts de commandement de 75"
+"Connecte cette forteresse au réseau des tunnels\n Augmente la valeur de déclassement des unités  \n Augmente les pts de commandement de 75"
 
 END
 OBJECT:WildFortressBurrowsExpansionDescription
@@ -52225,11 +52228,11 @@ End
 CONTROLBAR:TooltipUpgradeMordorTavernLevel3
 //"Allows research of the Fire Arrows upgrade \n +25% Faster Build Speed"
 //"Allows research of Heavy Armor and Fire Arrows \n +25% Faster Build Speed"
-"Permet la recherche de l'Amélioration Armure Lourde et Flèches enflammées\nVitesse de construction + 25%"
+"Permet la recherche de l'Amélioration Armure Lourde et lames forgées\nVitesse de construction + 25%"
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
-"Permet l'entraînement des corsaires d'Umbar et\n des lanciers Haradrim \n Vitesse de construction +10%"
+"Permet l'entraînement des lanciers Haradrim \n Vitesse de construction +10%"
 //"Allows training of Corsairs of Umbar and Haradrim Lancers\n +10% Faster Build Speed"
 //"Allows training of Haradrim Lancers\n +10% Faster Build Speed"
 End
@@ -52238,7 +52241,7 @@ CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
 //"Allows training of Haradrim Archers and Fire Arrows\nAdds defensive Arrow Tower \n +25% Faster Build Speed"
 //"Allows training of Haradrim Archers\nand Fire Arrows \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
 //"Allows training of Haradrim Archers \n +25% Faster Build Speed \n Adds defensive Arrow Tower"
-"Permet l'entraînement des archers Haradrim\n Permet la recherche des Flèches enflammées \n Ajoute une tour d'archers défensive \n Vitesse de construction +25%"
+"Permet l'entraînement des archers Haradrim\n Ajoute une tour d'archers défensive \n Vitesse de construction +25%"
 End
 
 CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarInnHorde
@@ -52248,14 +52251,14 @@ CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarInnHorde
 END
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
-"Permet la construction de la catapulte \n Permet la recherche des lames forgées \n Permet de soigner les armes de siège proches \n Vitesse de construction +10%"
+"Permet la construction de la catapulte \n Permet de soigner les armes de siège proches \n Vitesse de construction +10%"
 //"Allows construction of the Catapult \nAllows research of Forged Blades \n +10% Faster Build Speed"
 //"Allows construction of the Catapult \nAllows research of Forged Blades \n Allows healing of nearby siege weapons \n +10% Faster Build Speed"
 //"Allows construction of the Catapult \n Allows healing of nearby siege weapons \n +10% Faster Build Speed"
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"Permet la recherche de l'armure lourde \n Permet le recrutement les cavaliers noirs \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25%"
+"Permet le recrutement les cavaliers noirs \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25%"
 //"Allows research of Heavy Armor and summoning of the Black Riders \n+25% Faster Build Speed"
 //"Allows research of Heavy Armor \nand summoning of the Black Riders \n Adds defensive Arrow Tower \n+25% Faster Build Speed"
 //"Allows research of Heavy Armor \nand summoning of the Black Riders \n+25% Faster Build Speed"
@@ -52264,7 +52267,7 @@ CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
 End
 
 CONTROLBAR:ToolTipordorSiegeWorks
-"Produit les engins sièges et invoque les Cavaliers noirs \n Recherche les Améliorations d'Armes et d'Armures"
+"Produit les engins sièges et invoque les Cavaliers noirs"
 //"Builds siege weapons and summons the Black Riders \nResearches weapon and armor upgrades"
 //"Builds siege weapons and summons the Black Riders"
 END
@@ -52292,13 +52295,6 @@ CONTROLBAR:TooltipUpgradeMordorOrcPitLevel2
 "Permet l'Entraînement des Orques Noir \n Vitesse de construction +10%"
 End
 
-CONTROLBAR:ToolTipBattleWagonUpgradeMenOfDale
-//"Adds several Men of Dale to the Battlewagon"
-//"Adds several Men of Dale to the Battlewagon \n Strong vs. Infantry, Cavalry and Monsters"
-//"Adds several Men of Dale to the Battlewagon \n Strong vs. Infantry, Cavalry and Monsters \n Additional command points: 20"
-"Ajoute plusieurs Hommes de Dale au chariot de guerre \n Efficace contre Infanterie, Cavalerie et Monstres \n Pts de Commandements Supplémentaire: 20"
-End
-
 CONTROLBAR:ToolTipBattleWagonUpgradeAxeThrowers
 //"Adds several Axe Throwers to the Battlewagon"
 //"Adds several Axe Throwers to the Battlewagon \n Strong vs. Archers, Pikemen and Structures"
@@ -52314,7 +52310,15 @@ CONTROLBAR:ToolTipBattleWagonUpgradeBannerCarrier
 //"Modifier Type: Leadership \n Nearby allies gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Adds several Phalanxes to the Battlewagon"
 //"Modifier Type: Leadership \n Nearby allies gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Adds several Phalanxes to the Battlewagon \n Strong vs. Cavalry"
 //"Modifier Type: Leadership \n Nearby allies gain +33% Damage, +33% Armor, and earn experience 50% faster \n Stacks with Buffs and Spells \n Adds several Phalanxes to the Battlewagon \n Strong vs. Cavalry \n Additional command points: 10"
-"Type d'Action : Renforcement \n Les Alliés proches gagnent +33% de Dégâts, +33% d'Armure et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Ajoute plusieurs phalanges sur le chariot \n Efficace contre Cavalerie "
+"Type d'Action : Renforcement \n Les Alliés proches gagnent +25% de Dégâts, +25% d'Armure et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Ajoute plusieurs phalanges sur le chariot \n Efficace contre Cavalerie "
+End
+
+CONTROLBAR:SpecialAbilityCorsairPillage
+"Pillage"
+End
+
+CONTROLBAR:ToolTipSpecialAbilityCorsairPillage
+"Les corsaires volent des ressources lorsqu'ils infligent des dégâts aux structures ennemies\n Capacité passive"
 End
 
 CONTROLBAR:ToolTipBuildMordorCorsairsOfUmbarHorde
@@ -52486,14 +52490,6 @@ CONTROLBAR:ToolTipPurchaseUpgradeElvenFortressBlessedMist
 "Les alliés à proximité sont camouflés \n Type d'action : Affaiblissement passif \n Les ennemis proches infligent -25% de dégâts et perdent -25% d'armure \n Ne s'accumule par avec d'autres affaiblissements"
 END
 
-CONTROLBAR:ToolTipMightyRage
-"Requiert : niveau 5 \n Type d'action : Sort et Affaiblissement actif \n Les unités alliées gagnent +33% de dégâts et +33% d'armure \n Les unités ennemies ciblées infligent -25% de dégâts et perdent -25% d'armure \n Annule le charisme des unités adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la cible"
-END
-
-CONTROLBAR:TooltipCaveBats
-"Révèle la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
-END
-
 CONTROLBAR:ToolTipBlackRiderDreadVisage
 "Requiert : niveau 2 \n Type d'action : Affaiblissement passif \n Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure \n Ne s'accumule pas avec d'autres affaiblissements \n Capacité passive"
 END
@@ -52531,11 +52527,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressHouseOfLamentation
 END
 
 CONTROLBAR:TooltipNecroFellStrength
-//"Drains Enemy units of Strength \n +25% Damage, +25% attack speed bonus to friendly non-siege units \n Left click icon then left click on target area"
-//"Drains enemy units of strength \n Nearby friendly units gain\n+50% damage, +50% armor\n Left click icon then left click on target area"
-//"Drains enemy units of strength\nTargeted enemy units take slight damage\nNearby friendly units gain\n+33% Damage, +33% Armor\n Left click icon then left click on target area"
-//"Drains enemy units of strength \n Modifier Type: Spell and Active Debuff \n Targeted enemy units take slight damage and briefly suffer -25% Damage and -20% Armor \n Nearby friendly units gain\n+33% Damage and +33% Armor \n Nullifies enemy Leadership \n Stacks with Buffs, Leadership and other Spells \n Does not stack with other Debuffs \n Left click icon then left click on target area"
-"Absorbe la force des unités adverses \n Type d'action : Sort et affaiblissement actif \n Les unités ennemies ciblées subissent de légers Dégâts et perdent temporairement -25% de Dégâts et -25% Armure \n Les unités alliées gagnent +33% de Dégâts et +33% d'armure\n Annule les Passifs adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
+"Absorbe la force des unités adverses \n Type d'action : Sort et affaiblissement actif \n Les unités ennemies ciblées subissent de légers Dégâts et perdent temporairement -25% de Dégâts et -25% Armure \n Les unités alliées gagnent +25% de Dégâts et +25% d'armure\n Annule les Passifs adverses \n S'accumule avec les renforcements, le charisme et les autres sorts \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
 End
 
 CONTROLBAR:ToolTipLightTorch
@@ -52576,6 +52568,158 @@ CONTROLBAR:ToolTipMordorWitchKingDreadWrath
 END
 
 
+// VERSION 9.0.0
+
+MAP:MapMPRingofIsengard
+"Ring of Isengard"
+End
+
+MAP:MapMPRingofIsengard/Desc
+"Isengard, also known as Angrenost, was a great fortress located within a valley at the southern end of the Misty Mountains near the Gap of Rohan. In the centre of the Ring of Isengard stood the stone tower of Orthanc.\n\n Size: 500 x 500\n Lairs: None\n Neutral Structures: 1x Signal Fire (Orthanc), 4x Outpost"
+End
+
+MAP:MapMPDunlandii
+"Dunland II"
+End
+
+MAP:MapMPDunlandii/Desc
+"The Eastern regions of the Enedwaith, home of the Wild Men, sworn enemies of Rohan.\n\n Size: 540 x 540\n Lairs: 4x Warg Lair, 2x Troll Lair\n Neutral Structures: 2x Inn, 1x Signal Fire"
+End
+
+MAP:MapMPHaradOasisii
+"Harad Oasis II"
+End
+
+MAP:MapMPHaradOasisii/Desc
+"Harad was the name of the immense lands to the South of Gondor and Mordor. It was inhabited by many different tribes called Haradrim.\n\n Size: 500x500\n Lairs: 8x Goblin Lair, 4x Troll Lair\n Neutral Structures: 4x Outposts"
+End
+
+MAP:MapMPIslesofJoy
+"Isles of Joy"
+End
+
+MAP:MapMPIslesofJoy/Desc
+"A group of idyllic islands in the Sea of Harlindon. They are said to bring joy and fortune to anyone who journeys to their shores.\n\n Size: 600 x 600\n Lairs: 2x Troll Lair, 8x Goblin Lair\n Neutral Structures: 2x Inn 2x Signal Fire"
+End
+
+MAP:MapMPKhamulTomb
+"Harondor"
+End
+
+MAP:MapMPKhamulTomb/Desc
+"Sandy, rocky hills lying to the west of Harad and the south of Gondor.\n\n Size: 600 x 600\n Lairs: 1x Troll Lair, 2x Goblin Lair, 4x Warg Lair\n Neutral Structures: 2x Inn"
+End
+
+MAP:MapMPSouthfarthing
+"Southfarthing"
+End
+
+MAP:MapMPSouthfarthing/Desc
+"As a rural, fertile, and slightly warmer area of the Shire, the Southfarthing was the site of much of the Pipe-weed production.\n\n Size: 446 x 446\n Lairs: 2x Troll Lair, 4x Warg Lair\n Neutral Structures: 1x Inn, 2x Signal Fire"
+End
+
+Map:MapMPFirienForest
+"Forêt de Firien"
+End
+
+Map:MapMPFirienForest/Desc
+"Le bois de Firien est une forêt de chênes située au pied des Montagnes Blanches, en bordure du Mering Stream et de l'Estfolde\n Taille : 420 x 399\n Repaires : 4x Warg Lair\n Structures neutres : 1x Feu d'alarme"
+End
+
+Map:MapMPCarnenMire
+"Carnen Mire"
+End
+
+Map:MapMPCarnenMire/Desc
+"La rivière Carnen prend sa source dans les collines de fer et se trouve à l'est de la montagne solitaire. Il coule vers le sud avant de se jeter dans le fleuve, qui se trouve à environ 250 miles numénoréens au sud. Cette rivière, à son tour, traverse les terres de Dorwinion et se jette dans la mer de Rhun\n Taille : 375 x 325\n Repaires : 2 repaires de Drake, 2 repaires de Warg, 2 repaires de Troll, Structures neutres : 1 feu d'alarme"
+End
+
+Map:MapMPSorrowIsles
+"Îles de la Tristesse"
+End
+
+Map:MapMPSorrowIsles/Desc
+"Un groupe d'îles isolées dans la mer de Belfalas. On dit qu'il s'agit de la prison de deux esprits maléfiques qui font sombrer dans la folie les visiteurs peu méfiants de l'île\n\n Taille : 470 x 470\n Repaires : 2x repaire de trolls, 2x repaire de gobelins\n Structures neutres : 2 x Feu d'alarmes, 2 x Ports"
+End
+
+Map:MapMPRhudaur
+"Collines du Rhudaur"
+End
+
+Map:MapMPRhudaur/Desc
+"Le Rhudaur était le royaume oriental d'Arnor et était principalement peuplé d'hommes des collines. Sous la direction de leur chef Hwaldar, ils ont rejoint le Roi-Sorcier dans sa guerre contre les Dunedain.\n\n Taille : 400 x 340\n Repaires : 2x Repaire du Troll 2x Repaire du Warg\n Structures neutres : 2 x Feu d'alarmes"
+End
+
+CONTROLBAR:ToolTipSpecialAbilityKarshFearlessLeadership
+"Requiert : niveau 4 \n Accorde à tous les alliés proches une résistance à la peur et à la terreur \n Capacité passive"
+END
+
+CONTROLBAR:KarshFearlessLeadership
+"La volonté des morts-vivants"
+END
+
+MAP:MapMPEnedwaithII
+"Enedwaith II"
+End
+
+MAP:MapMPEnedwaithII/Desc
+"Une terre vaste et ouverte située à l'ouest du Rohan\n Taille : 500 x 500\n Repaires : 7x Repaire des trolls, 4x Repaire des gobelins\n Structures neutres : 4 avant-postes, 4 feux d'alarmes"
+End
+
+
+MAP:MapMPDeadMarshesII
+"Marais des Morts II"
+End
+
+MAP:MapMPDeadMarshesII/Desc
+"Un marécage hanté, situé juste à l'extérieur du Mordor. Gollum a conduit Frodon et Sam à travers ces terres sur leur chemin vers la Montagne du Destin\n Taille : 500 x 450\n Repaires : 4x Repaire de Galgals, 6x Repaire de Gobelin\n Structures neutres :  2 avant-postes, 2 feux d'alarmes"
+End
+
+MAP:MapMPNurnII
+"Nurn"
+End
+
+MAP:MapMPNurnII/Desc
+"Les terres du sud du Mordor qui entourent une grande mer intérieure\n Taille : 500 x 500\n Repaires : 8x repaire de trolls, 4x repaire de gobelins, 2x repaire de drakes\n Structures neutres : 4 avant-postes, 1 feu d'alarme, 2 auberges"
+End
+
+ToolTip:AngmarDeathMasks
+"Masques de la mort"
+End
+
+UPGRADE:AngmarDeathMasks
+"Masques de la mort"
+END
+
+TOOLTIP:LackAngmarDeathMasks
+"Recherchez l'amélioration au Hall des Hommes du Roi pour activer cet équipement \n Type de modificateur : Débuff passif \n Lorsqu'il est équipé, les unités ennemies proches subissent -25% de dégâts et -25% d'armure \n Ne s'empile pas avec d'autres Débuff."
+END
+
+CONTROLBAR:PurchaseTechnologyAngmarDeathMasks
+"Recherche des Masques de la Morts"
+END
+
+CONTROLBAR:NecromancerDeathMask
+//"Death Mask"
+"Acheter les Masques de la &Morts"
+End
+
+CONTROLBAR:TooltipDDDeathMask
+"Améliore cette horde avec des Masques de la Mort \n Type de modificateur : Debuff passif \n Lorsqu'il est équipé, les unités ennemies proches subissent -25% de dégâts et -25% d'armure \n Ne s'empile pas avec d'autres Debuffs"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyAngmarDeathMasks
+"Type de modificateur : Debuff passif \n Lorsqu'il est équipé, les unités ennemies proches subissent -25% de dégâts et -25% d'armure \n Ne s'empile pas avec d'autres Debuffs"
+END
+
+CONTROLBAR:AngmarBlizzard
+"Blizzard"
+END
+
+CONTROLBAR:ToolTipAngmarBlizzard
+"Recouvre temporairement la carte de neige\n Type de modificateur : Active Debuff \n Les unités ennemies subissent -25% de dégâts et -25% d'armure \n Nullifie le charisme ennemi \n Ne s'empile pas avec d'autres Debuffs \n Clic gauche pour l'activer"
+END
+
 //========================= VERSION STRINGS ==========	;;,;;
 
 //	Note for 2.02 Translators:
@@ -52598,7 +52742,7 @@ END
 Version:BuildTime
 // context: DO NOT TRANSLATE
 //"%ls %ls"
-"2022-01-23 23:36:00"
+"2022-18-12 11:34:30"
 END
 
 Version:BuildUser
@@ -52611,19 +52755,19 @@ END
 Version:Format2
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
 // "Version %d.%02d"
-"2.02 Version 8.5.0"
+"2.02 Version 9.0.0"
 END
 
 Version:Format3
 // context: TRANSLATE ONLY THE WORD Version. DO NOT MODIFY THE VARIABLES  
 //"Version %d.%02d.%d"
-"2.02 8500"
+"2.02 9000"
 END
 
 Version:Format4
 // context: TRANSLATE ONLY THE WORD Build. DO NOT MODIFY THE VARIABLES  
 //"%d.%02d.%d Build %d %c%c"
-"8500"
+"9000"
 END
 
 //========================= TRANSLATORS ==========	;;,;;
