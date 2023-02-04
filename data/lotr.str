@@ -49678,11 +49678,11 @@ CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
 END
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3_Palantir
-Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
+"Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
-Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
+"Le Héros invoque une nuée d'oiseaux qui dévoile le brouillard de guerre et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Ne s'accumule pas avec d'autres affaiblissements"
 End
 
 CONTROLBAR:TooltipEnshroudingMist
