@@ -13462,7 +13462,7 @@ CONTROLBAR:SummonHobbitAllies
 END
 
 CONTROLBAR:TooltipSummonHobbitAllies
-"Invoque un groupe de Hobbits. \nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+"Invoque un groupe de Hobbits. \n Frodon, Sam, Merry et Pippin ainsi que des hobbits armées \nClic gauche sur l'icône puis clic gauche sur une zone praticable"
 END
 
 CONTROLBAR:RallyingCall
@@ -26846,12 +26846,12 @@ CONTROLBAR:MouthOfSauronDoubt
 "Dou&te"
 END
 
-CONTROLBAR:MouthOfSauronDIsent
+CONTROLBAR:MouthOfSauronDissent
 "D&Isension"
 END
 
 CONTROLBAR:SpecialAbilityMouthOfSauronEvilEye
-"Ril du &Mal"
+"Oeil du &Mal"
 END
 
 CONTROLBAR:DreadVisage
@@ -47591,11 +47591,11 @@ CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
 END
 
 OBJECT:HordeGondorRanger
-"Archers Ithilien"
+"Rôdeurs d'Ithilien"
 END
 
 OBJECT:DunedainRanger
-"Archers Dunedain"
+"Rôdeur Dunedain"
 END
 
 CONTROLBAR:ToolTipMenLongShotAbility
@@ -47617,7 +47617,7 @@ CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
-"Permet la formation des archers Ithilien\nVitesse de construction +10%"
+"Permet la formation des rôdeurs d'Ithilien\nVitesse de construction +10%"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
@@ -47958,10 +47958,10 @@ CONTROLBAR:ConstructBlackRiderHorde
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMouthOfSauronEvilEye
-"Requiert : niveau 7\nUn puissant rayon de lumière d'important dommages aux unités ciblées\nCliquez sur l'icône puis clic gauche sur la cible"
+"Requiert : niveau 7\nUn puissant rayon de lumière causant d'important dommages aux unités ciblées\nCliquez sur l'icône puis clic gauche sur la cible"
 END
 
-CONTROLBAR:ToolTipMouthOfSauronDIsent
+CONTROLBAR:ToolTipMouthOfSauronDissent
 "Requiert : niveau 10 \nLes unités ciblées de deviennent hostile à l'égard des uns et des autres\nCliquez sur l'icône puis clic gauche sur la cible"
 END
 
@@ -49269,7 +49269,7 @@ CONTROLBAR:ToolTipBuildEregionForgeLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
-"Permet la recherche des améliorations cotte de mailles en mithril et Flèches enflammées \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25% \n Ajoute une tour de lanceurs de haches défensive"
+"Permet la recherche des améliorations cotte de mailles en mithril et des munitions enflammées \n Augmente la vitesse de guérison des armes de siège \n Vitesse de construction +25% \n Ajoute une tour de lanceurs de haches défensive"
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
@@ -49610,11 +49610,11 @@ CONTROLBAR:LW_ToolTip_AngmarDarkRangerHorde
 END
 
 CONTROLBAR:ToolTipBuildGoblinArcherHorde
-"Forts contre l'infanterie \n Peuvent tirer des flèches empoisonnées \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers gobelins gagnent \n+25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre l'infanterie \n Peuvent tirer des flèches empoisonnées \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers gobelins gagnent \n+25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcArcherHorde
-"Forts contre l'infanterie \n Peuvent tirer des flèches empoisonnées \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers gobelins gagnent \n+25% de dégâts lorsqu'ils sont rassemblés en nombre de 100 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
+"Forts contre l'infanterie \n Peuvent tirer des flèches empoisonnées \n\n Bonus de Horde \n Type d'action : Sort \n Tous les guerriers gobelins et archers gobelins gagnent \n+25% de dégâts lorsqu'ils sont rassemblés en nombre de 75 ou plus \n S'accumule avec les renforcements, le charisme et les autres sorts"
 END
 
 CONTROLBAR:Knife
@@ -49686,7 +49686,7 @@ CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
 End
 
 CONTROLBAR:TooltipEnshroudingMist
-"Les unités amies dans la brume deviennent furtives \n \n Type d'action : Affaiblissement actif \n Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure \n Annule le charisme de l'ennemi \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Les unités amies dans la brume deviennent furtives \n Type d'action : Affaiblissement actif - Les ennemis proches infligent -25% de dégâts et perdent -20% d'armure - Annule le charisme de l'ennemi - Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipElvenWood
@@ -49762,7 +49762,7 @@ CONTROLBAR:ToolTipEyeofSauron
 END
 
 CONTROLBAR:ToolTipDarkness
-"Couvre temporairement toute la carte dans l'obscurité \n Type d'action : Sort \n Les unités alliées gagnent +25% de dégâts et +25% d'armure \n Toutes les unités ennemies subissent -25% de vision de reconnaissance \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche pour activer"
+"Couvre temporairement toute la carte dans l'obscurité \n Type d'action : Sort Les unités alliées gagnent +25% de dégâts et +25% d'armure Toutes les unités ennemies subissent -25% de vision de reconnaissance \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGBloodHunt
@@ -49790,7 +49790,7 @@ CONTROLBAR:ToolTipFreezingRain
 END
 
 CONTROLBAR:ToolTipHwaldarLeadership
-"Type d'action : Charisme \n Les lanciers et lanceurs de haches du Rhudaur gagnent +33% de dégâts, +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
+"Type d'action : Charisme \n Les hommes des collines, piquiers et lanceurs de haches du Rhudaur gagnent +33% de dégâts, +33% d'armure, et l'expérience est acquise 50% plus rapidement \n S'accumule avec les renforcements et les sorts \n Capacité passive"
 END
 
 CONTROLBAR:ToolTipHwaldarBrigandage
@@ -49810,7 +49810,7 @@ CONTROLBAR:ToolTipSpecialAbilityAngmarTrollChargeAttack
 END
 
 CONTROLBAR:TooltipFrozenLand
-"Gèle une zone \n Type d'action : Charisme et Sort \n Les unités alliées gagnent +25% de dégâts, +25% d'armure et obtiennent 50% d'expérience en plus \n S'accumule avec les renforcements et les sorts \n Les unités ennemies subIsent -33% de vitesse \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
+"Gèle une zone \n Type d'action : Charisme et Sort \n Les unités alliées gagnent +25% de dégâts, +25% d'armure et obtiennent 50% d'expérience en plus - S'accumule avec les renforcements et les sorts - Les unités ennemies subIsent -33% de vitesse \n Eteint les incendies \n Clic gauche sur l'icône puis clic gauche sur la zone souhaitée"
 End
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarFortressHouseOfLamentation
@@ -50194,7 +50194,7 @@ CONTROLBAR:ToolTipSpecialAbilitySummonedDragonReposition
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel2
-"Vitesse de construction +10% \n Permet la recherche des Marteaux de siège"
+"Vitesse de construction +10% \n Permet la recherche des Marteaux de siège et des porte-étendards"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
@@ -50447,7 +50447,7 @@ CONTROLBAR:ToolTipDarkGlory
 //"Requires Level 7 \n Morgomir and nearby Dark Dunedain gain\n+33% Damage, +33% Armor \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +33% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
 //"Requires Level 7 \n Modifier Type: Spell \n Morgomir and nearby Dark Dunedain gain +50% Damage and +33% Armor \n Stacks with Buffs, Leadership and other Spells \n Left click icon to activate"
-"Requiert : niveau 5 \n Type d'Action : Sort \n Morgomir et les Dunedains à proximité gagnent +25% de Dégâts et +25% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
+"Requiert : niveau 5 \n Type d'Action : Sort \n Morgomir et les Numénoriens à proximité gagnent +25% de Dégâts et +25% d'armure \n S'accumule avec les renforcements, le charisme et les sorts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:ToolTipGothmogIronHand
@@ -51044,7 +51044,7 @@ CONTROLBAR:TooltipUpgradeIsengardTavernLevel3
 END
 
 CONTROLBAR:ToolTipIndustry
-"Augmente temporairement la production de la structure ciblée de 175% \n LClique gauche puis clique gauche sur le batiment de production de ressource"
+"Augmente temporairement la production de la structure ciblée de 175% \n Clique gauche puis clique gauche sur le batiment de production de ressource"
 End
 
 CONTROLBAR:TooltipDwarvenRiches
@@ -52125,7 +52125,7 @@ END
 CONTROLBAR:TooltipFarsight
 //"Reveals shroud in targeted area \n Left click icon then left click on target area"
 //"Reveals shroud in targeted area\n Detects stealthed units \n Modifier Type: Spell \n Temporarily grants targeted allied units +25% Vision and +25% Range \n Stacks with Buffs, Leadership and other Spells \n Left click icon then left click on targeted area or units"
-"Révèle le brouillard dans la zone cible \n détecte les unités furtives \n Type d'action : Sort \n Accorde temporairement aux unités alliées ciblées +15% de portée et +50% de champ de vision \n S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Révèle le brouillard dans la zone cible \n détecte les unités furtives - Type d'action : Sort - Accorde temporairement aux unités alliées ciblées +15% de portée et +50% de champ de vision - S'accumule avec les renforcements, le charisme et les autres sorts \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityDrakeBroodInferno
@@ -52137,6 +52137,18 @@ CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain +50% Damage and +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain \n+50% Damage, +50% Armor \n Causes meta impact \n Left click icon then left click on target"
 //"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Type: Buff \n Black Numenoreans gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
+"Requiert: niveau 2 \n Ordonne aux Numenoriens Noires de charger l'ennemi \n Type d'action : Renforcement \n Les Numénoriens Noires gagnent +33% Dégâts et +33% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
+END
+
+CONTROLBAR:HTChargeAttack
+"Attaque &Charge"
+End
+
+CONTROLBAR:ToolTipSpecialAbilityHTChargeAttack
+//"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain +50% Damage and +50% Armor \n Causes meta impact \n Left click icon then left click on target"
+//"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Black Numenoreans gain \n+50% Damage, +50% Armor \n Causes meta impact \n Left click icon then left click on target"
+//"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Type: Buff \n Black Numenoreans gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
+//"Requires Level 2 \n Order Black Numenoreans to charge the enemy \n Modifier Type: Buff \n Black Numenoreans gain +50% Damage and +50% Armor \n Stacks with Leadership and Spells \n Causes meta impact \n Left click icon then left click on target"
 "Requiert: niveau 2 \n Ordonne aux trolls de charger l'ennemi \n Type d'action : Renforcement \n Les trolls gagnent +33% Dégâts et +33% armure \n S'accumule avec le charisme et les sorts \n Inflige un méta impact \n Clic gauche sur l'icône puis clic gauche sur la cible"
 END
 
@@ -52507,7 +52519,7 @@ CONTROLBAR:ToolTipVenomousWords
 END
 
 CONTROLBAR:TooltipCrebain
-"Révèle une partie de la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif \n Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure \n Annule les bonus des ennemis ciblés \n Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
+"Révèle une partie de la carte et détecte les unités furtives \n Type d'action : Affaiblissement actif - Les unités ennemies proches infligent -25% de dégâts et perdent -25% d'armure - Annule les bonus des ennemis ciblés - Ne s'accumule pas avec d'autres affaiblissements \n Clic gauche sur l'icône puis clic gauche sur la zone cible"
 END
 
 CONTROLBAR:ToolTipFreezingRain
